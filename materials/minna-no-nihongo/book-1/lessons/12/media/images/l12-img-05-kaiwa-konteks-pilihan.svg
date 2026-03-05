@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7ed"/>
+      <stop offset="100%" stop-color="#ecfccb"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 40px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .sub { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .jp { font: 700 30px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 20px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .name { font: 700 24px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#1e293b; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="36" y="28" width="1208" height="664" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+
+  <text x="640" y="84" text-anchor="middle" class="title">Konteks Kaiwa Lesson 12</text>
+  <text x="640" y="118" text-anchor="middle" class="sub">Membandingkan pilihan makanan di kantin</text>
+
+  <rect x="92" y="170" width="1096" height="210" rx="18" fill="#f8fafc"/>
+  <text x="126" y="220" class="name">A:</text>
+  <text x="176" y="220" class="jp">カレー と ラーメン と どちら が おいしい ですか。</text>
+  <text x="126" y="264" class="id">Kari dan ramen, yang mana lebih enak?</text>
+  <text x="126" y="322" class="name">B:</text>
+  <text x="176" y="322" class="jp">わたし は ラーメン の ほう が すき です。</text>
+  <text x="126" y="364" class="id">Saya lebih suka ramen.</text>
+
+  <rect x="92" y="414" width="520" height="228" rx="16" fill="#dbeafe"/>
+  <text x="352" y="478" text-anchor="middle" class="jp">カレー 🍛</text>
+  <text x="352" y="522" text-anchor="middle" class="id">opsi A</text>
+
+  <rect x="668" y="414" width="520" height="228" rx="16" fill="#dcfce7" stroke="#16a34a" stroke-width="4"/>
+  <text x="928" y="478" text-anchor="middle" class="jp">ラーメン 🍜</text>
+  <text x="928" y="522" text-anchor="middle" class="id">opsi B (dipilih)</text>
+</svg>

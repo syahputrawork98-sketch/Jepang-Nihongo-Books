@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f3ff"/>
+      <stop offset="100%" stop-color="#ecfccb"/>
+    </linearGradient>
+    <style>
+      .t{font:700 38px 'Noto Sans JP','Poppins','Segoe UI',sans-serif;fill:#0f172a}
+      .jp{font:700 28px 'Noto Sans JP','Poppins','Segoe UI',sans-serif;fill:#0f172a}
+      .id{font:500 19px 'Noto Sans JP','Poppins','Segoe UI',sans-serif;fill:#334155}
+      .h{font:700 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif;fill:#1e293b}
+    </style>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="36" y="28" width="1208" height="664" rx="24" fill="#fff" stroke="#cbd5e1" stroke-width="3"/>
+  <text x="640" y="82" text-anchor="middle" class="t">Contoh Aturan Tempat</text>
+  <rect x="88" y="140" width="532" height="520" rx="16" fill="#dcfce7"/>
+  <text x="354" y="200" text-anchor="middle" class="h">Boleh</text>
+  <text x="354" y="260" text-anchor="middle" class="jp">けいたい を つかって も いいです。</text>
+  <text x="354" y="304" text-anchor="middle" class="id">boleh pakai ponsel</text>
+  <text x="354" y="394" text-anchor="middle" class="jp">しゃしん を とって も いいです。 📷</text>
+  <text x="354" y="438" text-anchor="middle" class="id">boleh foto</text>
+  <rect x="660" y="140" width="532" height="520" rx="16" fill="#fee2e2"/>
+  <text x="926" y="200" text-anchor="middle" class="h">Tidak Boleh</text>
+  <text x="926" y="260" text-anchor="middle" class="jp">たばこ を すって は いけません。</text>
+  <text x="926" y="304" text-anchor="middle" class="id">tidak boleh merokok</text>
+  <text x="926" y="394" text-anchor="middle" class="jp">ここ に はいって は いけません。 🚫</text>
+  <text x="926" y="438" text-anchor="middle" class="id">tidak boleh masuk</text>
+</svg>

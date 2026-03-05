@@ -1,0 +1,40 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ecfeff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+    <style>
+      .t { font: 700 40px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .s { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .jp { font: 700 27px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 19px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .name { font: 700 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#1e293b; }
+    </style>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="40" y="32" width="1200" height="656" rx="28" fill="#fff" stroke="#bae6fd" stroke-width="3"/>
+  <text x="640" y="92" text-anchor="middle" class="t">Kaiwa Lesson 07 (Ringkas)</text>
+  <text x="640" y="124" text-anchor="middle" class="s">Alur: tanya penerima -> tanya benda -> tanya asal penerimaan</text>
+
+  <circle cx="170" cy="470" r="64" fill="#bfdbfe"/>
+  <text x="170" y="476" text-anchor="middle" class="name">A</text>
+  <circle cx="1110" cy="470" r="64" fill="#fed7aa"/>
+  <text x="1110" y="476" text-anchor="middle" class="name">B</text>
+
+  <rect x="280" y="168" width="470" height="106" rx="16" fill="#dbeafe"/>
+  <text x="515" y="218" text-anchor="middle" class="jp">① だれ に プレゼント を あげますか。</text>
+  <text x="515" y="248" text-anchor="middle" class="id">Dare ni purezento o agemasu ka.</text>
+
+  <rect x="530" y="286" width="470" height="106" rx="16" fill="#ffedd5"/>
+  <text x="765" y="336" text-anchor="middle" class="jp">② ともだち に あげます。</text>
+  <text x="765" y="366" text-anchor="middle" class="id">Tomodachi ni agemasu.</text>
+
+  <rect x="280" y="404" width="470" height="106" rx="16" fill="#ede9fe"/>
+  <text x="515" y="454" text-anchor="middle" class="jp">③ せんせい から しゃしん を もらいました。</text>
+  <text x="515" y="484" text-anchor="middle" class="id">Sensei kara shashin o moraimashita.</text>
+
+  <rect x="770" y="432" width="250" height="132" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="3"/>
+  <text x="895" y="476" text-anchor="middle" class="id">kunci:</text>
+  <text x="895" y="516" text-anchor="middle" class="jp">に / から</text>
+</svg>

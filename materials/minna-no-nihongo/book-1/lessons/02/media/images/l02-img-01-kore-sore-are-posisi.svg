@@ -1,0 +1,46 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f3f8ff"/>
+      <stop offset="100%" stop-color="#fffdf7"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#334155"/>
+    </marker>
+    <style>
+      .title { font: 700 40px 'Noto Sans JP', 'Poppins', 'Segoe UI', sans-serif; fill: #0f172a; }
+      .sub { font: 500 23px 'Noto Sans JP', 'Poppins', 'Segoe UI', sans-serif; fill: #334155; }
+      .label { font: 700 34px 'Noto Sans JP', 'Poppins', 'Segoe UI', sans-serif; fill: #0f172a; }
+      .small { font: 500 20px 'Noto Sans JP', 'Poppins', 'Segoe UI', sans-serif; fill: #334155; }
+      .em { font: 600 20px 'Segoe UI Emoji', 'Apple Color Emoji', sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="40" y="32" width="1200" height="656" rx="28" fill="#ffffff" stroke="#dbeafe" stroke-width="3"/>
+
+  <text x="640" y="92" text-anchor="middle" class="title">これ / それ / あれ</text>
+  <text x="640" y="126" text-anchor="middle" class="sub">Pilih kata tunjuk berdasarkan jarak: dekat saya, dekat kamu, atau jauh</text>
+
+  <circle cx="220" cy="286" r="72" fill="#bfdbfe"/>
+  <text x="220" y="292" text-anchor="middle" class="small">Pembicara <tspan class="em">🙂</tspan></text>
+
+  <circle cx="1060" cy="286" r="72" fill="#fed7aa"/>
+  <text x="1060" y="292" text-anchor="middle" class="small">Lawan bicara <tspan class="em">👋</tspan></text>
+
+  <rect x="320" y="236" width="104" height="104" rx="14" fill="#86efac"/>
+  <text x="372" y="388" text-anchor="middle" class="label">これ</text>
+  <text x="372" y="420" text-anchor="middle" class="small">kore - ini (dekat saya)</text>
+  <line x1="248" y1="286" x2="320" y2="286" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <rect x="856" y="236" width="104" height="104" rx="14" fill="#fdba74"/>
+  <text x="908" y="388" text-anchor="middle" class="label">それ</text>
+  <text x="908" y="420" text-anchor="middle" class="small">sore - itu (dekat kamu)</text>
+  <line x1="988" y1="286" x2="960" y2="286" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <rect x="588" y="488" width="104" height="104" rx="14" fill="#c4b5fd"/>
+  <text x="640" y="640" text-anchor="middle" class="label">あれ</text>
+  <text x="640" y="670" text-anchor="middle" class="small">are - itu (jauh dari keduanya)</text>
+  <line x1="248" y1="336" x2="588" y2="536" stroke="#64748b" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <line x1="988" y1="336" x2="692" y2="536" stroke="#64748b" stroke-width="2.5" marker-end="url(#arrow)"/>
+</svg>

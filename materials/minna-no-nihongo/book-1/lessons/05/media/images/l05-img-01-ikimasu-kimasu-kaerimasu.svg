@@ -1,0 +1,55 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef8ff"/>
+      <stop offset="100%" stop-color="#fffaf3"/>
+    </linearGradient>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#334155"/>
+    </marker>
+    <style>
+      .t { font: 700 40px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .s { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .h { font: 700 24px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .jp { font: 700 29px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 18px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .k { font: 700 20px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#1e293b; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="38" y="30" width="1204" height="660" rx="26" fill="#fff" stroke="#dbeafe" stroke-width="3"/>
+
+  <text x="640" y="86" text-anchor="middle" class="t">いきます / きます / かえります</text>
+  <text x="640" y="118" text-anchor="middle" class="s">Kuncinya: sudut pandang pembicara = pusat acuan</text>
+
+  <circle cx="640" cy="248" r="58" fill="#fde68a" stroke="#f59e0b" stroke-width="3"/>
+  <text x="640" y="255" text-anchor="middle" class="k">わたし</text>
+
+  <rect x="120" y="196" width="210" height="104" rx="14" fill="#bfdbfe"/>
+  <text x="225" y="256" text-anchor="middle" class="k">うち (rumah)</text>
+
+  <rect x="950" y="196" width="210" height="104" rx="14" fill="#86efac"/>
+  <text x="1055" y="256" text-anchor="middle" class="k">がっこう (sekolah)</text>
+
+  <line x1="698" y1="232" x2="950" y2="232" stroke="#334155" stroke-width="4" marker-end="url(#arr)"/>
+  <text x="824" y="216" text-anchor="middle" class="jp">いきます</text>
+  <text x="824" y="248" text-anchor="middle" class="id">pergi (menjauh dari saya)</text>
+
+  <line x1="950" y1="272" x2="698" y2="272" stroke="#334155" stroke-width="4" marker-end="url(#arr)"/>
+  <text x="824" y="306" text-anchor="middle" class="jp">きます</text>
+  <text x="824" y="334" text-anchor="middle" class="id">datang (menuju saya)</text>
+
+  <line x1="582" y1="272" x2="330" y2="272" stroke="#334155" stroke-width="4" marker-end="url(#arr)"/>
+  <text x="456" y="306" text-anchor="middle" class="jp">かえります</text>
+  <text x="456" y="334" text-anchor="middle" class="id">pulang (kembali ke rumah)</text>
+
+  <rect x="94" y="396" width="1092" height="250" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="130" y="438" class="h">Contoh cepat:</text>
+  <text x="130" y="484" class="jp">わたし は がっこう へ いきます。</text>
+  <text x="130" y="512" class="id">Saya pergi ke sekolah.</text>
+  <text x="130" y="556" class="jp">ともだち が うち へ きます。</text>
+  <text x="130" y="584" class="id">Teman datang ke rumah.</text>
+  <text x="130" y="628" class="jp">ごご ろくじ に うち へ かえります。</text>
+  <text x="130" y="656" class="id">Pulang ke rumah jam 6 sore.</text>
+</svg>

@@ -1,0 +1,31 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef8ff"/>
+      <stop offset="100%" stop-color="#fffaf3"/>
+    </linearGradient>
+    <style>
+      .t { font: 700 40px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .s { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .jp { font: 700 29px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 18px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .h { font: 700 24px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#1e293b; }
+    </style>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="36" y="28" width="1208" height="664" rx="26" fill="#fff" stroke="#dbeafe" stroke-width="3"/>
+  <text x="640" y="86" text-anchor="middle" class="t">`います` vs `あります`</text>
+  <text x="640" y="118" text-anchor="middle" class="s">Perbedaan utama: makhluk hidup vs benda</text>
+
+  <rect x="92" y="160" width="540" height="470" rx="16" fill="#dcfce7"/>
+  <text x="124" y="208" class="h">`います`</text>
+  <text x="124" y="246" class="id">untuk orang/hewan</text>
+  <text x="124" y="298" class="jp">ねこ は へや に います。</text>
+  <text x="124" y="330" class="id">Kucing ada di kamar.</text>
+
+  <rect x="648" y="160" width="540" height="470" rx="16" fill="#ffedd5"/>
+  <text x="680" y="208" class="h">`あります`</text>
+  <text x="680" y="246" class="id">untuk benda</text>
+  <text x="680" y="298" class="jp">かばん は つくえ の うえ に あります。</text>
+  <text x="680" y="330" class="id">Tas ada di atas meja.</text>
+</svg>

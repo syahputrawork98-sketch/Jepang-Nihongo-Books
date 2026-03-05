@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ecfeff"/>
+      <stop offset="100%" stop-color="#ede9fe"/>
+    </linearGradient>
+    <style>
+      .t { font: 700 40px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .jp { font: 700 32px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 20px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .h { font: 700 23px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#1e293b; }
+    </style>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="36" y="28" width="1208" height="664" rx="24" fill="#fff" stroke="#cbd5e1" stroke-width="3"/>
+  <text x="640" y="86" text-anchor="middle" class="t">Pola `Vてください`</text>
+  <rect x="96" y="152" width="1088" height="130" rx="16" fill="#e0f2fe"/>
+  <text x="640" y="224" text-anchor="middle" class="jp">なまえ を かいて ください。</text>
+  <text x="640" y="264" text-anchor="middle" class="id">Tolong tulis nama.</text>
+  <rect x="96" y="314" width="340" height="300" rx="16" fill="#dbeafe"/>
+  <text x="266" y="374" text-anchor="middle" class="h">Langkah 1</text>
+  <text x="266" y="430" text-anchor="middle" class="jp">かきます</text>
+  <rect x="470" y="314" width="340" height="300" rx="16" fill="#dcfce7"/>
+  <text x="640" y="374" text-anchor="middle" class="h">Langkah 2</text>
+  <text x="640" y="430" text-anchor="middle" class="jp">かいて</text>
+  <rect x="844" y="314" width="340" height="300" rx="16" fill="#fef3c7"/>
+  <text x="1014" y="374" text-anchor="middle" class="h">Langkah 3</text>
+  <text x="1014" y="430" text-anchor="middle" class="jp">かいて ください</text>
+</svg>

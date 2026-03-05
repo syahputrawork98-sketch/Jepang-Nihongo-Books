@@ -1,0 +1,44 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f0fdf4"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 40px 'Noto Sans JP', 'Poppins', 'Segoe UI', sans-serif; fill: #0f172a; }
+      .sub { font: 500 24px 'Noto Sans JP', 'Poppins', 'Segoe UI', sans-serif; fill: #334155; }
+      .jp { font: 700 36px 'Noto Sans JP', 'Poppins', 'Segoe UI', sans-serif; fill: #0f172a; }
+      .opt { font: 700 30px 'Noto Sans JP', 'Poppins', 'Segoe UI', sans-serif; fill: #0f172a; }
+      .id { font: 500 22px 'Noto Sans JP', 'Poppins', 'Segoe UI', sans-serif; fill: #334155; }
+      .tag { font: 700 22px 'Noto Sans JP', 'Poppins', 'Segoe UI', sans-serif; fill: #1e293b; }
+      .em { font: 600 22px 'Segoe UI Emoji', 'Apple Color Emoji', sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="40" y="32" width="1200" height="656" rx="28" fill="#ffffff" stroke="#dcfce7" stroke-width="3"/>
+
+  <text x="640" y="92" text-anchor="middle" class="title">どれ ですか</text>
+  <text x="640" y="128" text-anchor="middle" class="sub">`どれ` dipakai saat memilih SATU benda dari beberapa opsi</text>
+
+  <rect x="250" y="166" width="780" height="94" rx="16" fill="#ecfeff" stroke="#67e8f9" stroke-width="3"/>
+  <text x="640" y="223" text-anchor="middle" class="jp">リナさん の かばん は どれ ですか。</text>
+
+  <rect x="140" y="292" width="300" height="294" rx="20" fill="#fee2e2"/>
+  <text x="290" y="338" text-anchor="middle" class="opt">A <tspan class="em">🎒</tspan></text>
+  <rect x="200" y="382" width="180" height="122" rx="16" fill="#ef4444"/>
+  <text x="290" y="544" text-anchor="middle" class="tag">あかい かばん</text>
+
+  <rect x="490" y="292" width="300" height="294" rx="20" fill="#dbeafe" stroke="#2563eb" stroke-width="5"/>
+  <text x="640" y="338" text-anchor="middle" class="opt">B <tspan class="em">⭐</tspan></text>
+  <rect x="550" y="382" width="180" height="122" rx="16" fill="#3b82f6"/>
+  <text x="640" y="544" text-anchor="middle" class="tag">あおい かばん</text>
+
+  <rect x="840" y="292" width="300" height="294" rx="20" fill="#fef3c7"/>
+  <text x="990" y="338" text-anchor="middle" class="opt">C <tspan class="em">🧳</tspan></text>
+  <rect x="900" y="382" width="180" height="122" rx="16" fill="#f59e0b"/>
+  <text x="990" y="544" text-anchor="middle" class="tag">きいろい かばん</text>
+
+  <rect x="340" y="614" width="600" height="52" rx="12" fill="#eef2ff"/>
+  <text x="640" y="648" text-anchor="middle" class="id">Contoh jawaban: B です / あおい かばん です</text>
+</svg>

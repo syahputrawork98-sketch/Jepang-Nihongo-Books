@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fef3c7"/>
+      <stop offset="100%" stop-color="#dbeafe"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 42px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .sub { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .jp { font: 700 36px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 24px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="36" y="28" width="1208" height="664" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+
+  <text x="640" y="88" text-anchor="middle" class="title">Pola Perbandingan `より`</text>
+  <text x="640" y="122" text-anchor="middle" class="sub">A は B より adj です</text>
+
+  <rect x="104" y="180" width="1072" height="144" rx="16" fill="#eff6ff"/>
+  <text x="640" y="260" text-anchor="middle" class="jp">この とけい は あの とけい より やすい です。</text>
+  <text x="640" y="298" text-anchor="middle" class="id">Jam ini lebih murah daripada jam itu.</text>
+
+  <rect x="104" y="360" width="520" height="272" rx="16" fill="#f0fdf4"/>
+  <text x="364" y="414" text-anchor="middle" class="jp">A</text>
+  <text x="364" y="462" text-anchor="middle" class="id">この とけい</text>
+  <text x="364" y="520" text-anchor="middle" class="id">yang dibandingkan</text>
+
+  <rect x="656" y="360" width="520" height="272" rx="16" fill="#fff7ed"/>
+  <text x="916" y="414" text-anchor="middle" class="jp">B</text>
+  <text x="916" y="462" text-anchor="middle" class="id">あの とけい</text>
+  <text x="916" y="520" text-anchor="middle" class="id">patokan perbandingan</text>
+
+  <text x="640" y="585" text-anchor="middle" class="sub">Tip: `より` selalu menempel ke B (patokan).</text>
+</svg>

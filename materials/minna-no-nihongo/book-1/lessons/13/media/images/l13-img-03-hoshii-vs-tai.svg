@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0f9ff"/>
+      <stop offset="100%" stop-color="#fef9c3"/>
+    </linearGradient>
+    <style>
+      .t { font: 700 40px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .jp { font: 700 30px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 20px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .h { font: 700 26px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#1e293b; }
+    </style>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="36" y="28" width="1208" height="664" rx="24" fill="#fff" stroke="#cbd5e1" stroke-width="3"/>
+  <text x="640" y="86" text-anchor="middle" class="t">Bedakan `ほしい` dan `～たい`</text>
+
+  <rect x="90" y="140" width="520" height="510" rx="18" fill="#dbeafe"/>
+  <text x="350" y="198" text-anchor="middle" class="h">`ほしいです`</text>
+  <text x="350" y="252" text-anchor="middle" class="id">untuk BENDA</text>
+  <text x="350" y="332" text-anchor="middle" class="jp">カメラ が ほしいです。</text>
+  <text x="350" y="374" text-anchor="middle" class="id">Saya ingin kamera.</text>
+  <text x="350" y="470" text-anchor="middle" class="jp">くるま が ほしいです。</text>
+  <text x="350" y="512" text-anchor="middle" class="id">Saya ingin mobil.</text>
+
+  <rect x="670" y="140" width="520" height="510" rx="18" fill="#dcfce7"/>
+  <text x="930" y="198" text-anchor="middle" class="h">`～たいです`</text>
+  <text x="930" y="252" text-anchor="middle" class="id">untuk AKTIVITAS</text>
+  <text x="930" y="332" text-anchor="middle" class="jp">みず を のみたいです。</text>
+  <text x="930" y="374" text-anchor="middle" class="id">Saya ingin minum air.</text>
+  <text x="930" y="470" text-anchor="middle" class="jp">にほん へ いきたいです。</text>
+  <text x="930" y="512" text-anchor="middle" class="id">Saya ingin pergi ke Jepang.</text>
+</svg>

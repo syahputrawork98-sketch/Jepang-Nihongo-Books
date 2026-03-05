@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ecfeff"/>
+      <stop offset="100%" stop-color="#ede9fe"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 42px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .sub { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .jp { font: 700 34px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .card { font: 700 28px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#1e293b; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="36" y="28" width="1208" height="664" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+
+  <text x="640" y="88" text-anchor="middle" class="title">Pola `いちばん` dalam Kategori</text>
+  <text x="640" y="122" text-anchor="middle" class="sub">[kategori] の なかで N が いちばん adj です</text>
+
+  <rect x="96" y="164" width="1088" height="130" rx="16" fill="#e0f2fe"/>
+  <text x="640" y="236" text-anchor="middle" class="jp">にほんりょうり の なかで すし が いちばん すき です。</text>
+  <text x="640" y="274" text-anchor="middle" class="id">Di antara masakan Jepang, saya paling suka sushi.</text>
+
+  <rect x="116" y="330" width="320" height="220" rx="16" fill="#fef3c7"/>
+  <text x="276" y="394" text-anchor="middle" class="card">てんぷら</text>
+  <text x="276" y="438" text-anchor="middle" class="id">opsi 1</text>
+
+  <rect x="480" y="330" width="320" height="220" rx="16" fill="#bbf7d0" stroke="#16a34a" stroke-width="4"/>
+  <text x="640" y="394" text-anchor="middle" class="card">すし</text>
+  <text x="640" y="438" text-anchor="middle" class="id">paling disukai</text>
+  <text x="640" y="480" text-anchor="middle" class="id">`いちばん`</text>
+
+  <rect x="844" y="330" width="320" height="220" rx="16" fill="#fde68a"/>
+  <text x="1004" y="394" text-anchor="middle" class="card">うどん</text>
+  <text x="1004" y="438" text-anchor="middle" class="id">opsi 3</text>
+
+  <text x="640" y="614" text-anchor="middle" class="sub">Tip: pola ini butuh kategori jelas sebelum `の なかで`.</text>
+</svg>

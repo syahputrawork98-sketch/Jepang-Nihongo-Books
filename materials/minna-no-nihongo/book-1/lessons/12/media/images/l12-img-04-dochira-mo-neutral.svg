@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f3ff"/>
+      <stop offset="100%" stop-color="#ecfeff"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 42px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .sub { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .jp { font: 700 34px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 21px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .box { font: 700 28px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#1e293b; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="36" y="28" width="1208" height="664" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+
+  <text x="640" y="88" text-anchor="middle" class="title">Jawaban Netral: `どちらも`</text>
+  <text x="640" y="122" text-anchor="middle" class="sub">Saat dua-duanya sama, pakai `どちらも`</text>
+
+  <rect x="96" y="164" width="1088" height="124" rx="16" fill="#ede9fe"/>
+  <text x="640" y="236" text-anchor="middle" class="jp">サッカー と テニス と どちら が すき ですか。</text>
+  <text x="640" y="272" text-anchor="middle" class="id">Sepak bola dan tenis, lebih suka yang mana?</text>
+
+  <rect x="170" y="330" width="940" height="230" rx="16" fill="#dcfce7"/>
+  <text x="640" y="408" text-anchor="middle" class="jp">どちら も すき です。</text>
+  <text x="640" y="452" text-anchor="middle" class="id">Saya suka keduanya.</text>
+  <text x="640" y="500" text-anchor="middle" class="box">A = suka, B = suka</text>
+
+  <text x="640" y="614" text-anchor="middle" class="sub">Tip: `どちらも` = kedua pilihan diperlakukan sama.</text>
+</svg>

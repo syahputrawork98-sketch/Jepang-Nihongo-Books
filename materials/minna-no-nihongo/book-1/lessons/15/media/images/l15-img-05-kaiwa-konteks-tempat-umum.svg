@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7ed"/>
+      <stop offset="100%" stop-color="#ecfeff"/>
+    </linearGradient>
+    <style>
+      .t{font:700 36px 'Noto Sans JP','Poppins','Segoe UI',sans-serif;fill:#0f172a}
+      .n{font:700 23px 'Noto Sans JP','Poppins','Segoe UI',sans-serif;fill:#1e293b}
+      .jp{font:700 27px 'Noto Sans JP','Poppins','Segoe UI',sans-serif;fill:#0f172a}
+      .id{font:500 18px 'Noto Sans JP','Poppins','Segoe UI',sans-serif;fill:#334155}
+    </style>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="36" y="28" width="1208" height="664" rx="24" fill="#fff" stroke="#cbd5e1" stroke-width="3"/>
+  <text x="640" y="82" text-anchor="middle" class="t">Konteks Kaiwa Lesson 15</text>
+  <text x="640" y="114" text-anchor="middle" class="id">Tanya izin di tempat umum</text>
+  <rect x="88" y="150" width="1104" height="292" rx="16" fill="#f8fafc"/>
+  <text x="120" y="200" class="n">A:</text>
+  <text x="170" y="200" class="jp">ここ で しゃしん を とって も いいですか。</text>
+  <text x="120" y="256" class="n">B:</text>
+  <text x="170" y="256" class="jp">はい、いいです。</text>
+  <text x="120" y="320" class="n">A:</text>
+  <text x="170" y="320" class="jp">ここ で たばこ を すって も いいですか。</text>
+  <text x="120" y="376" class="n">B:</text>
+  <text x="170" y="376" class="jp">いいえ、すって は いけません。</text>
+  <rect x="88" y="468" width="532" height="184" rx="16" fill="#dcfce7">
+  </rect>
+  <text x="354" y="540" text-anchor="middle" class="jp">Permission ✅</text>
+  <text x="354" y="582" text-anchor="middle" class="id">Vて も いいです</text>
+  <rect x="660" y="468" width="532" height="184" rx="16" fill="#fee2e2">
+  </rect>
+  <text x="926" y="540" text-anchor="middle" class="jp">Prohibition ⛔</text>
+  <text x="926" y="582" text-anchor="middle" class="id">Vて は いけません</text>
+</svg>

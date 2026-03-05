@@ -1,0 +1,36 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7ed"/>
+      <stop offset="100%" stop-color="#eef2ff"/>
+    </linearGradient>
+    <style>
+      .t { font: 700 40px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .s { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .h { font: 700 24px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .jp { font: 700 30px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 18px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="36" y="28" width="1208" height="664" rx="26" fill="#fff" stroke="#e2e8f0" stroke-width="3"/>
+
+  <text x="640" y="86" text-anchor="middle" class="t">Ajakan Sopan: `Vませんか`</text>
+  <text x="640" y="118" text-anchor="middle" class="s">Makna: "mau ...?" / "bagaimana kalau ...?"</text>
+
+  <rect x="84" y="160" width="1112" height="120" rx="16" fill="#dbeafe"/>
+  <text x="640" y="230" text-anchor="middle" class="jp">いっしょに えいが を みませんか。</text>
+
+  <rect x="84" y="308" width="548" height="344" rx="16" fill="#dcfce7"/>
+  <text x="116" y="356" class="h">Jawaban Setuju</text>
+  <text x="116" y="400" class="jp">はい、いいですね。</text>
+  <text x="116" y="432" class="jp">みましょう。</text>
+  <text x="116" y="464" class="id">Ya, baik. Mari nonton.</text>
+
+  <rect x="648" y="308" width="548" height="344" rx="16" fill="#ffedd5"/>
+  <text x="680" y="356" class="h">Jawaban Menolak Halus</text>
+  <text x="680" y="400" class="jp">すみません、ちょっと...</text>
+  <text x="680" y="432" class="id">Maaf, sepertinya tidak bisa.</text>
+  <text x="680" y="476" class="id">(bentuk sopan tanpa menolak keras)</text>
+</svg>

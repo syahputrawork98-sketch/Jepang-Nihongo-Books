@@ -1,0 +1,39 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef8ff"/>
+      <stop offset="100%" stop-color="#fffaf3"/>
+    </linearGradient>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#334155"/>
+    </marker>
+    <style>
+      .t { font: 700 40px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .s { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .jp { font: 700 30px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 18px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+    </style>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="36" y="28" width="1208" height="664" rx="26" fill="#fff" stroke="#dbeafe" stroke-width="3"/>
+  <text x="640" y="86" text-anchor="middle" class="t">`あげます` vs `もらいます`</text>
+  <text x="640" y="118" text-anchor="middle" class="s">Situasi sama, sudut pandang beda</text>
+
+  <circle cx="300" cy="320" r="70" fill="#bfdbfe"/>
+  <text x="300" y="328" text-anchor="middle" class="id">A</text>
+  <circle cx="980" cy="320" r="70" fill="#fed7aa"/>
+  <text x="980" y="328" text-anchor="middle" class="id">B</text>
+  <rect x="600" y="280" width="90" height="70" rx="10" fill="#f59e0b"/>
+  <text x="645" y="370" text-anchor="middle" class="id">ほん</text>
+
+  <line x1="370" y1="320" x2="600" y2="315" stroke="#334155" stroke-width="4" marker-end="url(#arr)"/>
+  <line x1="690" y1="315" x2="910" y2="320" stroke="#334155" stroke-width="4" marker-end="url(#arr)"/>
+
+  <rect x="90" y="430" width="520" height="180" rx="14" fill="#dbeafe"/>
+  <text x="120" y="478" class="jp">A は B に ほん を あげます。</text>
+  <text x="120" y="510" class="id">A memberi buku kepada B.</text>
+
+  <rect x="670" y="430" width="520" height="180" rx="14" fill="#ffedd5"/>
+  <text x="700" y="478" class="jp">B は A から ほん を もらいます。</text>
+  <text x="700" y="510" class="id">B menerima buku dari A.</text>
+</svg>

@@ -1,0 +1,36 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f3ff"/>
+      <stop offset="100%" stop-color="#f0fdfa"/>
+    </linearGradient>
+    <style>
+      .t { font: 700 40px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .s { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .jp { font: 700 30px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 18px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .h { font: 700 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#1e293b; }
+    </style>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="36" y="28" width="1208" height="664" rx="26" fill="#fff" stroke="#ddd6fe" stroke-width="3"/>
+  <text x="640" y="86" text-anchor="middle" class="t">Pasangan Kata Kerja</text>
+  <text x="640" y="118" text-anchor="middle" class="s">Memberi informasi/barang dan menerima kebalikannya</text>
+
+  <rect x="92" y="162" width="530" height="220" rx="16" fill="#dbeafe"/>
+  <text x="120" y="208" class="h">Memberi</text>
+  <text x="120" y="248" class="jp">かします (meminjamkan)</text>
+  <text x="120" y="282" class="jp">おしえます (memberi tahu)</text>
+
+  <rect x="656" y="162" width="530" height="220" rx="16" fill="#ffedd5"/>
+  <text x="684" y="208" class="h">Menerima</text>
+  <text x="684" y="248" class="jp">かります (meminjam)</text>
+  <text x="684" y="282" class="jp">ならいます (belajar dari)</text>
+
+  <rect x="92" y="414" width="1094" height="220" rx="16" fill="#ede9fe"/>
+  <text x="120" y="462" class="h">Contoh</text>
+  <text x="120" y="502" class="jp">わたし は ともだち に ほん を かします。</text>
+  <text x="120" y="534" class="id">Saya meminjamkan buku kepada teman.</text>
+  <text x="120" y="580" class="jp">わたし は ともだち から ほん を かります。</text>
+  <text x="120" y="612" class="id">Saya meminjam buku dari teman.</text>
+</svg>

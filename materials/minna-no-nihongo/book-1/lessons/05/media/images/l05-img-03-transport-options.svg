@@ -1,0 +1,49 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7ed"/>
+      <stop offset="100%" stop-color="#eef2ff"/>
+    </linearGradient>
+    <style>
+      .t { font: 700 40px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .s { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .h { font: 700 24px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .jp { font: 700 30px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 18px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .mini { font: 600 17px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#1e293b; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="38" y="30" width="1204" height="660" rx="26" fill="#fff" stroke="#e2e8f0" stroke-width="3"/>
+
+  <text x="640" y="86" text-anchor="middle" class="t">Transportasi: `N で いきます`</text>
+  <text x="640" y="118" text-anchor="middle" class="s">Fokus: pilih alat transportasi lalu gabungkan dengan tujuan</text>
+
+  <rect x="82" y="154" width="1116" height="70" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="640" y="197" text-anchor="middle" class="mini">Template: [transportasi] で [tempat] へ いきます</text>
+
+  <rect x="95" y="250" width="350" height="320" rx="16" fill="#dbeafe"/>
+  <text x="270" y="298" text-anchor="middle" class="h">A. バス で</text>
+  <text x="270" y="338" text-anchor="middle" class="id">naik bus</text>
+  <text x="270" y="390" text-anchor="middle" class="jp">バス で がっこう へ</text>
+  <text x="270" y="424" text-anchor="middle" class="jp">いきます。</text>
+  <text x="270" y="458" text-anchor="middle" class="id">Pergi ke sekolah naik bus.</text>
+
+  <rect x="465" y="250" width="350" height="320" rx="16" fill="#ffedd5"/>
+  <text x="640" y="298" text-anchor="middle" class="h">B. でんしゃ で</text>
+  <text x="640" y="338" text-anchor="middle" class="id">naik kereta</text>
+  <text x="640" y="390" text-anchor="middle" class="jp">でんしゃ で だいがく へ</text>
+  <text x="640" y="424" text-anchor="middle" class="jp">いきます。</text>
+  <text x="640" y="458" text-anchor="middle" class="id">Pergi ke universitas naik kereta.</text>
+
+  <rect x="835" y="250" width="350" height="320" rx="16" fill="#ede9fe"/>
+  <text x="1010" y="298" text-anchor="middle" class="h">C. あるいて</text>
+  <text x="1010" y="338" text-anchor="middle" class="id">berjalan kaki</text>
+  <text x="1010" y="390" text-anchor="middle" class="jp">あるいて こうえん へ</text>
+  <text x="1010" y="424" text-anchor="middle" class="jp">いきます。</text>
+  <text x="1010" y="458" text-anchor="middle" class="id">Pergi ke taman dengan berjalan kaki.</text>
+
+  <rect x="95" y="590" width="1090" height="62" rx="10" fill="#eef2ff"/>
+  <text x="640" y="629" text-anchor="middle" class="mini">Catatan: untuk berjalan kaki, bentuk umum adalah `あるいて いきます`.</text>
+</svg>

@@ -1,0 +1,40 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f3ff"/>
+      <stop offset="100%" stop-color="#f0fdfa"/>
+    </linearGradient>
+    <style>
+      .t { font: 700 40px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .s { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .h { font: 700 24px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .jp { font: 700 30px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 18px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="38" y="30" width="1204" height="660" rx="26" fill="#fff" stroke="#ddd6fe" stroke-width="3"/>
+
+  <text x="640" y="86" text-anchor="middle" class="t">Urutan Pertanyaan Lesson 05</text>
+  <text x="640" y="118" text-anchor="middle" class="s">Gunakan urutan ini saat membuat percakapan perjalanan</text>
+
+  <rect x="90" y="162" width="1100" height="120" rx="16" fill="#dbeafe"/>
+  <text x="140" y="212" class="h">1. Tujuan</text>
+  <text x="140" y="252" class="jp">どこ へ いきますか。</text>
+  <text x="140" y="276" class="id">Pergi ke mana?</text>
+
+  <rect x="90" y="304" width="1100" height="120" rx="16" fill="#ffedd5"/>
+  <text x="140" y="354" class="h">2. Transportasi</text>
+  <text x="140" y="394" class="jp">なに で いきますか。</text>
+  <text x="140" y="418" class="id">Pergi naik apa?</text>
+
+  <rect x="90" y="446" width="1100" height="120" rx="16" fill="#ede9fe"/>
+  <text x="140" y="496" class="h">3. Teman</text>
+  <text x="140" y="536" class="jp">だれ と いきますか。</text>
+  <text x="140" y="560" class="id">Pergi dengan siapa?</text>
+
+  <rect x="90" y="588" width="1100" height="88" rx="16" fill="#dcfce7"/>
+  <text x="140" y="628" class="h">4. Waktu</text>
+  <text x="140" y="658" class="jp">いつ いきますか。</text>
+</svg>

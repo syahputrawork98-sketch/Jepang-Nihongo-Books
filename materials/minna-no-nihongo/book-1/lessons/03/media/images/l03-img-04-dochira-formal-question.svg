@@ -1,0 +1,37 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f3ff"/>
+      <stop offset="100%" stop-color="#f0fdfa"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 40px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .sub { font: 500 23px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .jp { font: 700 36px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 21px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .box { font: 700 26px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#1e293b; }
+      .em { font: 600 20px 'Segoe UI Emoji','Apple Color Emoji',sans-serif; }
+    </style>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="40" y="32" width="1200" height="656" rx="28" fill="#fff" stroke="#ddd6fe" stroke-width="3"/>
+  <text x="640" y="92" text-anchor="middle" class="title">どちら ですか</text>
+  <text x="640" y="126" text-anchor="middle" class="sub">Versi sopan untuk bertanya lokasi/arah</text>
+
+  <rect x="250" y="166" width="780" height="94" rx="16" fill="#ede9fe"/>
+  <text x="640" y="224" text-anchor="middle" class="jp">エレベーター は どちら ですか。</text>
+
+  <rect x="140" y="308" width="320" height="276" rx="20" fill="#dbeafe"/>
+  <text x="300" y="368" text-anchor="middle" class="box">A: こちら <tspan class="em">⬅️</tspan></text>
+  <text x="300" y="408" text-anchor="middle" class="id">dekat pembicara</text>
+
+  <rect x="480" y="308" width="320" height="276" rx="20" fill="#ffedd5"/>
+  <text x="640" y="368" text-anchor="middle" class="box">B: そちら <tspan class="em">↔️</tspan></text>
+  <text x="640" y="408" text-anchor="middle" class="id">dekat lawan bicara</text>
+
+  <rect x="820" y="308" width="320" height="276" rx="20" fill="#ede9fe"/>
+  <text x="980" y="368" text-anchor="middle" class="box">C: あちら <tspan class="em">➡️</tspan></text>
+  <text x="980" y="408" text-anchor="middle" class="id">jauh dari keduanya</text>
+
+  <text x="640" y="648" text-anchor="middle" class="id">`どこ` (biasa) vs `どちら` (sopan)</text>
+</svg>

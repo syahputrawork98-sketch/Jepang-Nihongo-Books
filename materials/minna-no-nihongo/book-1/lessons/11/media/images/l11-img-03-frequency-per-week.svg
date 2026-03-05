@@ -1,0 +1,31 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7ed"/>
+      <stop offset="100%" stop-color="#eef2ff"/>
+    </linearGradient>
+    <style>
+      .t { font: 700 40px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .s { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .jp { font: 700 29px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 18px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .h { font: 700 24px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#1e293b; }
+    </style>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="36" y="28" width="1208" height="664" rx="26" fill="#fff" stroke="#e2e8f0" stroke-width="3"/>
+  <text x="640" y="86" text-anchor="middle" class="t">Frekuensi Mingguan</text>
+  <text x="640" y="118" text-anchor="middle" class="s">Pola: `しゅう に Xかい Vます`</text>
+
+  <rect x="92" y="162" width="1096" height="140" rx="16" fill="#dbeafe"/>
+  <text x="120" y="214" class="h">Contoh 1</text>
+  <text x="120" y="252" class="jp">しゅう に さんかい うんどうします。</text>
+
+  <rect x="92" y="332" width="1096" height="140" rx="16" fill="#ffedd5"/>
+  <text x="120" y="384" class="h">Contoh 2</text>
+  <text x="120" y="422" class="jp">しゅう に にかい りょうりします。</text>
+
+  <rect x="92" y="502" width="1096" height="130" rx="16" fill="#ede9fe"/>
+  <text x="120" y="550" class="h">Contoh 3</text>
+  <text x="120" y="588" class="jp">まいにち べんきょうします。</text>
+</svg>

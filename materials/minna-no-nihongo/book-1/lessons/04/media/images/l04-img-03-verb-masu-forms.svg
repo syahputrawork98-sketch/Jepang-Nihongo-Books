@@ -1,0 +1,57 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7ed"/>
+      <stop offset="100%" stop-color="#eef2ff"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 40px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .sub { font: 500 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .head { font: 700 22px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .jp { font: 700 30px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#0f172a; }
+      .id { font: 500 18px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#334155; }
+      .mini { font: 600 17px 'Noto Sans JP','Poppins','Segoe UI',sans-serif; fill:#1e293b; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="40" y="32" width="1200" height="656" rx="28" fill="#ffffff" stroke="#e2e8f0" stroke-width="3"/>
+
+  <text x="640" y="90" text-anchor="middle" class="title">4 Bentuk Dasar Kata Kerja `ます`</text>
+  <text x="640" y="122" text-anchor="middle" class="sub">Contoh kata kerja: はたらきます (bekerja)</text>
+
+  <rect x="70" y="152" width="1140" height="40" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="640" y="178" text-anchor="middle" class="mini">Pola cepat: ます / ません / ました / ませんでした</text>
+
+  <rect x="80" y="214" width="270" height="430" rx="16" fill="#dbeafe"/>
+  <text x="215" y="254" text-anchor="middle" class="head">Sekarang (+)</text>
+  <text x="215" y="304" text-anchor="middle" class="jp">はたらきます</text>
+  <text x="215" y="340" text-anchor="middle" class="id">bekerja / biasanya bekerja</text>
+  <text x="215" y="396" text-anchor="middle" class="mini">わたし は まいにち</text>
+  <text x="215" y="426" text-anchor="middle" class="mini">はたらきます。</text>
+  <text x="215" y="458" text-anchor="middle" class="id">Saya bekerja setiap hari.</text>
+
+  <rect x="370" y="214" width="270" height="430" rx="16" fill="#ffedd5"/>
+  <text x="505" y="254" text-anchor="middle" class="head">Sekarang (-)</text>
+  <text x="505" y="304" text-anchor="middle" class="jp">はたらきません</text>
+  <text x="505" y="340" text-anchor="middle" class="id">tidak bekerja</text>
+  <text x="505" y="396" text-anchor="middle" class="mini">きょう は</text>
+  <text x="505" y="426" text-anchor="middle" class="mini">はたらきません。</text>
+  <text x="505" y="458" text-anchor="middle" class="id">Hari ini tidak bekerja.</text>
+
+  <rect x="660" y="214" width="270" height="430" rx="16" fill="#dcfce7"/>
+  <text x="795" y="254" text-anchor="middle" class="head">Lampau (+)</text>
+  <text x="795" y="304" text-anchor="middle" class="jp">はたらきました</text>
+  <text x="795" y="340" text-anchor="middle" class="id">sudah bekerja</text>
+  <text x="795" y="396" text-anchor="middle" class="mini">きのう は</text>
+  <text x="795" y="426" text-anchor="middle" class="mini">はたらきました。</text>
+  <text x="795" y="458" text-anchor="middle" class="id">Kemarin bekerja.</text>
+
+  <rect x="950" y="214" width="250" height="430" rx="16" fill="#ede9fe"/>
+  <text x="1075" y="254" text-anchor="middle" class="head">Lampau (-)</text>
+  <text x="1075" y="304" text-anchor="middle" class="jp">はたらきませんでした</text>
+  <text x="1075" y="340" text-anchor="middle" class="id">tidak bekerja (lampau)</text>
+  <text x="1075" y="396" text-anchor="middle" class="mini">きのう は</text>
+  <text x="1075" y="426" text-anchor="middle" class="mini">はたらきませんでした。</text>
+  <text x="1075" y="458" text-anchor="middle" class="id">Kemarin tidak bekerja.</text>
+</svg>

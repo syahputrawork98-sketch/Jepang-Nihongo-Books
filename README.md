@@ -1,2 +1,25 @@
-# Jepang-MinnaNoNihongo
-Repository ini berisi catatan pembelajaran Bahasa Jepang menggunakan seri buku Minna no Nihongo sebagai materi utama. Tujuan dari repository ini adalah mendokumentasikan proses belajar dari tingkat dasar hingga mencapai kemampuan yang setara dengan JLPT N5–N1 dan melanjutkan hingga tingkat menengah.
+﻿# Jepang Study Notes
+
+Repository ini berisi catatan pembelajaran Bahasa Jepang dari dua seri utama:
+
+- Minna no Nihongo
+- Irodori
+
+Tujuan repository adalah mendokumentasikan progres belajar dari level dasar sampai menengah secara terstruktur, konsisten, dan mudah dikembangkan.
+
+Lihat panduan struktur di `docs/STRUCTURE.md` dan aturan kontribusi di `docs/CONTRIBUTING.md`.
+
+## Quick Start Kontribusi
+
+1. Pilih seri yang akan diisi:
+- `materials/minna-no-nihongo/`
+- `materials/irodori/`
+2. Masuk ke buku/level yang sesuai, lalu isi lesson pada folder `lessons/<nomor>/`.
+3. Lengkapi file wajib:
+- `README.md`
+- `vocab.md`
+- `grammar.md`
+- `drills.md`
+- `kaiwa.md`
+- `notes.md`
+4. Simpan audio di `media/audio/` dan gambar di `media/images/`.
