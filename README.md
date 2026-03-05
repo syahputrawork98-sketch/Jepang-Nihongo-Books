@@ -1,9 +1,12 @@
-﻿# Jepang Study Notes
+# Jepang Nihongo Books
 
-Repository ini berisi catatan pembelajaran Bahasa Jepang dari dua seri utama:
+Repository ini berisi catatan pembelajaran Bahasa Jepang.
+Saat ini materi utamanya berasal dari dua seri:
 
 - Minna no Nihongo
 - Irodori
+
+Ke depan, seri buku lain bisa ditambahkan tanpa mengubah pola struktur utama.
 
 Tujuan repository adalah mendokumentasikan progres belajar dari level dasar sampai menengah secara terstruktur, konsisten, dan mudah dikembangkan.
 
@@ -23,3 +26,5 @@ Lihat panduan struktur di `docs/STRUCTURE.md` dan aturan kontribusi di `docs/CON
 - `kaiwa.md`
 - `notes.md`
 4. Simpan audio di `media/audio/` dan gambar di `media/images/`.
+
+

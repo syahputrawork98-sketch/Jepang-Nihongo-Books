@@ -1,4 +1,4 @@
-﻿# Repository Structure
+# Repository Structure
 
 Struktur utama repository:
 
@@ -120,3 +120,6 @@ Setiap lesson minimal berisi:
 - `shared/` dipakai untuk materi universal yang dipakai lintas seri.
 - `Minna no Nihongo` umumnya mengikuti lesson bernomor (mis. 01-25 per buku).
 - `Irodori` boleh menyesuaikan unit aslinya, tetapi tetap disimpan dalam format lesson konsisten.
+- Seri baru dapat ditambahkan sebagai sibling baru di bawah `materials/` dengan pola folder yang sama.
+
+

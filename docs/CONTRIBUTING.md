@@ -1,8 +1,9 @@
-﻿# Contributing Guide
+# Contributing Guide
 
 Terima kasih sudah berkontribusi pada repository ini.
 
-Repository ini memuat materi belajar dari dua seri:
+Repository ini memuat materi belajar Bahasa Jepang dari beberapa seri.
+Saat ini seri utamanya adalah:
 
 - Minna no Nihongo
 - Irodori
@@ -55,6 +56,7 @@ Media diletakkan di:
 4. Gunakan format file lesson yang sama untuk semua seri.
 5. Simpan audio di `media/audio` dan gambar di `media/images`.
 6. Untuk unit Irodori, gunakan nama lesson konsisten (mis. `01`, `02`, dst.) agar mudah diindeks.
+7. Jika menambah seri baru, buat folder baru di bawah `materials/` dengan pola struktur yang sama.
 
 ## Penamaan File
 
@@ -87,3 +89,5 @@ Untuk kontribusi di `materials/minna-no-nihongo/`, gunakan dokumen berikut:
 - `book-x/CHANGELOG.md` untuk perubahan per buku.
 - `VERSIONING.md` untuk skema versi rilis.
 - `RELEASE_CHECKLIST.md` saat persiapan rilis akhir.
+
+
