@@ -91,17 +91,51 @@ Subjudul:
 
 # Format Kosakata
 
-Kosakata ditulis dalam bentuk tabel.
+Kosakata ditulis dalam bentuk tabel agar mudah dibaca dan dipahami.
 
-Contoh:
+Setiap kosakata sebaiknya memuat informasi berikut:
 
-```
-| Bahasa Jepang | Hiragana | Arti |
-|---------------|----------|------|
-| 私 | わたし | saya |
-| 学生 | がくせい | mahasiswa |
-| 先生 | せんせい | guru |
-```
+* Bahasa Jepang (kanji atau bentuk utama)
+* Hiragana
+* Romaji
+* Jenis kata
+* Arti dalam bahasa Indonesia
+* Contoh penggunaan
+
+Contoh format:
+
+| Bahasa Jepang | Hiragana | Romaji  | Jenis Kata | Arti      | Contoh    |
+| ------------- | -------- | ------- | ---------- | --------- | --------- |
+| 私             | わたし      | watashi | kata ganti | saya      | 私は学生です    |
+| 学生            | がくせい     | gakusei | kata benda | mahasiswa | 私は学生です    |
+| 先生            | せんせい     | sensei  | kata benda | guru      | 田中さんは先生です |
+| 日本            | にほん      | nihon   | kata benda | Jepang    | 日本へ行きます   |
+
+---
+
+# Penjelasan Kolom
+
+| Kolom         | Penjelasan                                              |
+| ------------- | ------------------------------------------------------- |
+| Bahasa Jepang | Kata dalam bentuk kanji atau bentuk yang umum digunakan |
+| Hiragana      | Cara membaca kata dalam hiragana                        |
+| Romaji        | Penulisan latin untuk membantu pemula                   |
+| Jenis Kata    | Jenis kata seperti kata benda, kata kerja, kata sifat   |
+| Arti          | Arti kata dalam bahasa Indonesia                        |
+| Contoh        | Contoh kalimat sederhana menggunakan kata tersebut      |
+
+---
+
+# Aturan Penulisan Kosakata
+
+Beberapa aturan yang harus diikuti:
+
+1. Gunakan **kanji** jika tersedia.
+2. Sertakan **hiragana** untuk membantu pembaca.
+3. Sertakan **romaji** untuk pembelajar pemula.
+4. Gunakan **contoh kalimat sederhana**.
+5. Contoh kalimat harus menggunakan **grammar yang sudah dipelajari**.
+
 
 ---
 
