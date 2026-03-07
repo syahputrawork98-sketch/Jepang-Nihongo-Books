@@ -1,42 +1,87 @@
-# Panduan Penulisan (Style Guide)
+# Style Guide
 
-Dokumen ini menjelaskan aturan penulisan konten dalam repository **Japan Nihongo Books**.
+Dokumen ini berisi aturan umum penulisan konten dalam repository **Japan Nihongo Books**.
 
-Tujuan dari panduan ini adalah agar semua materi memiliki **format yang konsisten, rapi, dan mudah dibaca**.
+Tujuan dari style guide ini adalah menjaga agar semua materi tetap:
 
-Semua kontributor diharapkan mengikuti panduan ini saat menulis atau memperbarui konten.
+* konsisten
+* mudah dibaca
+* mudah dipahami
+* mudah dikembangkan
 
----
+Dokumen ini hanya berisi **aturan umum**.
 
-# Struktur Konten dalam Lesson
+Untuk aturan khusus media, lihat dokumen berikut:
 
-Setiap lesson memiliki beberapa file utama:
-
-| File       | Isi                    |
-| ---------- | ---------------------- |
-| vocab.md   | Daftar kosakata        |
-| grammar.md | Penjelasan tata bahasa |
-| kaiwa.md   | Percakapan / dialog    |
-| drills.md  | Latihan                |
-| notes.md   | Catatan tambahan       |
-
-Setiap file harus mengikuti format penulisan yang dijelaskan di bawah.
+* `style-guide/images.md`
+* `style-guide/audio.md`
 
 ---
 
-# Penulisan Judul
+# Prinsip Penulisan
 
-Gunakan format heading Markdown.
+Semua materi harus mengikuti prinsip berikut.
+
+## 1. Jelas
+
+Materi harus mudah dipahami oleh pembelajar bahasa Jepang.
+
+Gunakan penjelasan yang sederhana dan langsung ke inti.
+
+---
+
+## 2. Ringkas
+
+Hindari penjelasan yang terlalu panjang.
+
+Gunakan contoh kalimat jika diperlukan.
+
+---
+
+## 3. Konsisten
+
+Format penulisan harus sama di semua lesson.
+
+Semua lesson harus mengikuti struktur yang telah ditentukan.
+
+---
+
+## 4. Terstruktur
+
+Setiap lesson harus memiliki bagian berikut:
+
+* vocab.md
+* grammar.md
+* kaiwa.md
+* drills.md
+* notes.md
+
+---
+
+# Bahasa yang Digunakan
+
+Materi menggunakan:
+
+* Bahasa Jepang
+* Bahasa Indonesia sebagai penjelasan
+
+Romaji hanya digunakan jika diperlukan.
+
+---
+
+# Struktur Penulisan Judul
+
+Gunakan heading Markdown.
 
 Contoh:
 
-```id="exw9zk"
+```
 # Lesson 01 — Perkenalan
 ```
 
-Subjudul menggunakan:
+Subjudul:
 
-```id="rm7k3u"
+```
 ## Kosakata
 ## Tata Bahasa
 ## Contoh Kalimat
@@ -44,13 +89,13 @@ Subjudul menggunakan:
 
 ---
 
-# Format Penulisan Kosakata
+# Format Kosakata
 
 Kosakata ditulis dalam bentuk tabel.
 
 Contoh:
 
-```id="n7x96r"
+```
 | Bahasa Jepang | Hiragana | Arti |
 |---------------|----------|------|
 | 私 | わたし | saya |
@@ -58,19 +103,13 @@ Contoh:
 | 先生 | せんせい | guru |
 ```
 
-Aturan:
-
-* Gunakan bentuk kanji jika ada
-* Sertakan hiragana
-* Sertakan arti dalam bahasa Indonesia
-
 ---
 
-# Format Penulisan Grammar
+# Format Grammar
 
-Penjelasan grammar menggunakan struktur berikut:
+Gunakan format berikut:
 
-```id="3k13d6"
+```
 ## Pola Kalimat
 
 A は B です
@@ -81,7 +120,7 @@ A adalah B
 
 ## Penjelasan
 
-Pola ini digunakan untuk menyatakan identitas atau informasi dasar.
+Digunakan untuk menyatakan identitas atau informasi dasar.
 
 ## Contoh
 
@@ -91,13 +130,11 @@ Saya adalah mahasiswa.
 
 ---
 
-# Format Penulisan Percakapan (Kaiwa)
+# Format Percakapan (Kaiwa)
 
-Percakapan ditulis dalam bentuk dialog.
+Dialog ditulis seperti berikut:
 
-Contoh:
-
-```id="a9tqft"
+```
 A: はじめまして。  
 B: はじめまして。  
 
@@ -105,24 +142,17 @@ A: 私はアンドリです。
 B: 私は田中です。
 ```
 
-Jika perlu, tambahkan terjemahan di bawahnya.
-
-Contoh:
-
-```id="vif95h"
-A: はじめまして。  
-Senang bertemu dengan Anda.
-```
+Jika diperlukan, tambahkan terjemahan.
 
 ---
 
-# Format Penulisan Latihan (Drills)
+# Format Latihan
 
-Latihan dapat berupa soal atau latihan pengisian.
+Latihan dapat berupa soal atau pengisian.
 
 Contoh:
 
-```id="a7h1f5"
+```
 ## Latihan 1
 
 Isi bagian yang kosong.
@@ -133,54 +163,24 @@ Isi bagian yang kosong.
 
 ---
 
-# Format Catatan Tambahan
+# Catatan Tambahan
 
-Gunakan bagian **notes.md** untuk:
+Gunakan file `notes.md` untuk:
 
 * penjelasan tambahan
 * tips belajar
 * informasi budaya Jepang
 
-Contoh:
-
-```id="8oqgj9"
-## Catatan
-
-Di Jepang, memperkenalkan diri biasanya dilakukan dengan menyebutkan nama dan asal.
-```
-
 ---
 
-# Bahasa yang Digunakan
+# Media
 
-Konten utama menggunakan:
+Repository ini menggunakan dua jenis media:
 
-* Bahasa Jepang
-* Bahasa Indonesia sebagai penjelasan
+* gambar
+* audio
 
-Jika menggunakan romaji, gunakan hanya jika diperlukan.
+Aturan lengkap dapat dilihat di:
 
----
-
-# Konsistensi Penulisan
-
-Beberapa aturan penting:
-
-* Gunakan bahasa yang jelas dan sederhana
-* Hindari penulisan yang terlalu panjang
-* Gunakan format Markdown yang konsisten
-* Gunakan tabel jika menampilkan daftar kosakata
-
----
-
-# Kolaborasi Manusia dan AI
-
-Repository ini memungkinkan penulisan konten dengan bantuan AI.
-
-Namun:
-
-* Struktur file tidak boleh diubah
-* Format penulisan harus mengikuti panduan ini
-* Semua perubahan harus menjaga konsistensi materi
-
-Tujuan dari panduan ini adalah agar semua materi tetap **rapi, konsisten, dan mudah dipelajari**.
+* `style-guide/images.md`
+* `style-guide/audio.md`
