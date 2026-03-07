@@ -1,125 +1,231 @@
-# Repository Structure
+# Struktur Repository
 
-Struktur utama repository:
+Dokumen ini menjelaskan struktur folder yang digunakan dalam repository **Japan Nihongo Books**.
 
-```text
-<repo-root>/
-|-- docs/
-|-- materials/
-|   |-- shared/
-|   |   |-- writing-system/
-|   |   |   |-- hiragana.md
-|   |   |   |-- katakana.md
-|   |   |   `-- kanji/
-|   |   |       |-- README.md
-|   |   |       |-- kanji-basics.md
-|   |   |       |-- 00-overview.md
-|   |   |       |-- 01-konsep-onyomi-kunyomi.md
-|   |   |       |-- 02-kanji-tema-harian.md
-|   |   |       |-- 03-kanji-tema-sekolah.md
-|   |   |       |-- 04-sejarah-singkat-kanji.md
-|   |   |       |-- 05-aturan-goresan-dasar.md
-|   |   |       `-- 99-ringkasan.md
-|   |   |-- kata-sifat/
-|   |   |   |-- README.md
-|   |   |   |-- 00-overview.md
-|   |   |   |-- 01-kata-sifat-i.md
-|   |   |   |-- 02-kata-sifat-na.md
-|   |   |   |-- 03-pola-kalimat-dasar.md
-|   |   |   |-- 04-daftar-kata-sifat-umum.md
-|   |   |   |-- 05-lawan-kata.md
-|   |   |   |-- daftar-tematik/
-|   |   |   |   |-- 01-cuaca-dan-suhu.md
-|   |   |   |   |-- 02-rasa-dan-makanan.md
-|   |   |   |   |-- 03-ukuran-dan-sifat-benda.md
-|   |   |   |   `-- 04-kepribadian-dan-kondisi.md
-|   |   |   `-- 99-ringkasan.md
-|   |   |-- numbers/
-|   |   |   `-- angka.md
-|   |   |-- hari-dan-tanggal/
-|   |   |   `-- hari-dan-tanggal.md
-|   |   |-- months/
-|   |   |   |-- README.md
-|   |   |   |-- 00-overview.md
-|   |   |   |-- 01-dasar.md
-|   |   |   |-- 02-detail-penggunaan.md
-|   |   |   |-- 03-kanji-per-bulan.md
-|   |   |   |-- 04-latar-belakang-sejarah.md
-|   |   |   `-- 99-ringkasan.md
-|   |   |-- K3-APD/
-|   |   |   |-- README.md
-|   |   |   |-- 00-overview.md
-|   |   |   |-- 01-dasar-k3.md
-|   |   |   |-- 02-jenis-apd.md
-|   |   |   |-- 03-cara-pakai-dan-inspeksi-apd.md
-|   |   |   |-- 04-kosakata-jepang-k3-apd.md
-|   |   |   `-- 99-ringkasan.md
-|   |   |-- hobi/
-|   |   |   |-- README.md
-|   |   |   |-- 00-overview.md
-|   |   |   |-- 01-kosakata-hobi-dasar.md
-|   |   |   |-- 02-pola-kalimat-hobi.md
-|   |   |   |-- 03-kaiwa-topik-hobi.md
-|   |   |   `-- 99-ringkasan.md
-|   |   `-- uang/
-|   |       `-- uang.md
-|   |-- minna-no-nihongo/
-|   |   |-- RULES.md
-|   |   |-- CHANGELOG.md
-|   |   |-- VERSIONING.md
-|   |   |-- RELEASE_CHECKLIST.md
-|   |   |-- book-1/
-|   |   |   `-- CHANGELOG.md
-|   |   |-- book-2/
-|   |   |   `-- CHANGELOG.md
-|   |   |-- book-3/
-|   |   |   `-- CHANGELOG.md
-|   |   |-- book-4/
-|   |   |   `-- CHANGELOG.md
-|   |   `-- book-5/
-|   |       `-- CHANGELOG.md
-|   `-- irodori/
-|       |-- starter-a1/
-|       `-- elementary-a2/
+Struktur ini dibuat agar materi pembelajaran bahasa Jepang tersusun secara **rapi, konsisten, dan mudah dikembangkan**.
+
+Semua kontributor diharapkan mengikuti aturan struktur yang dijelaskan dalam dokumen ini.
+
+---
+
+# Struktur Utama Repository
+
+Struktur utama repository adalah sebagai berikut:
+
+```
+japan-nihongo-books
+│
+├── README.md
+│
+├── docs/
+│   ├── STRUCTURE.md
+│   ├── STYLE_GUIDE.md
+│   └── CONTRIBUTING.md
+│
+├── books/
+│   ├── minna-no-nihongo/
+│   ├── irodori/
+│   └── lainnya/
+│
+└── assets/
+    ├── audio/
+    └── images/
 ```
 
-## Struktur Konten Tiap Buku/Level
+Penjelasan folder utama:
 
-Setiap buku atau level menggunakan pola folder berikut:
+| Folder | Fungsi                                      |
+| ------ | ------------------------------------------- |
+| docs   | Dokumentasi dan aturan repository           |
+| books  | Berisi buku-buku pembelajaran bahasa Jepang |
+| assets | Berisi file media seperti audio dan gambar  |
 
-```text
-<book-or-level>/
-|-- 00-front-matter/
-|-- lessons/
-|   |-- 01/
-|   |-- 02/
-|   |-- ...
-|   `-- nn/
-`-- 90-appendix/
+---
+
+# Struktur Folder Books
+
+Setiap buku ditempatkan di dalam folder **books**.
+
+Contoh:
+
+```
+books/
+│
+├── minna-no-nihongo/
+│   ├── book-1/
+│   ├── book-2/
+│   └── book-3/
+│
+├── irodori/
+│   ├── starter-a1/
+│   ├── elementary-a2/
+│   └── intermediate-b1/
 ```
 
-## Struktur Lesson
+Aturan penamaan folder:
 
-Setiap lesson minimal berisi:
+* menggunakan huruf kecil
+* menggunakan tanda `-` sebagai pemisah kata
+* tidak menggunakan spasi
 
-```text
-<lesson>/
-|-- README.md
-|-- vocab.md
-|-- grammar.md
-|-- drills.md
-|-- kaiwa.md
-|-- notes.md
-`-- media/
-    |-- audio/
-    `-- images/
+Contoh yang benar:
+
+```
+minna-no-nihongo
+irodori
+starter-a1
 ```
 
-## Catatan
+Contoh yang salah:
 
-- `shared/` dipakai untuk materi universal yang dipakai lintas seri.
-- `Minna no Nihongo` umumnya mengikuti lesson bernomor (mis. 01-25 per buku).
-- `Irodori` boleh menyesuaikan unit aslinya, tetapi tetap disimpan dalam format lesson konsisten.
-- Seri baru dapat ditambahkan sebagai sibling baru di bawah `materials/` dengan pola folder yang sama.
+```
+Minna No Nihongo
+Irodori Starter
+Minna_no_Nihongo
+```
 
+---
 
+# Struktur Buku
+
+Setiap buku memiliki folder **lessons** yang berisi lesson.
+
+Contoh:
+
+```
+book-1/
+│
+└── lessons/
+    ├── lesson-01-perkenalan
+    ├── lesson-02-ini-apa
+    ├── lesson-03-lokasi-benda
+```
+
+---
+
+# Penamaan Lesson
+
+Setiap lesson harus menggunakan format berikut:
+
+```
+lesson-XX-nama-topik
+```
+
+Keterangan:
+
+| Bagian     | Fungsi                      |
+| ---------- | --------------------------- |
+| lesson     | penanda folder lesson       |
+| XX         | nomor lesson (01,02,03,...) |
+| nama-topik | topik utama lesson          |
+
+Contoh yang benar:
+
+```
+lesson-01-perkenalan
+lesson-02-ini-apa
+lesson-03-lokasi-benda
+lesson-04-waktu
+lesson-05-kegiatan-sehari-hari
+```
+
+Format ini digunakan agar:
+
+* urutan lesson tetap rapi
+* isi lesson mudah dikenali
+* repository lebih mudah dinavigasi
+
+---
+
+# Struktur Lesson
+
+Setiap lesson memiliki struktur file yang sama.
+
+Contoh:
+
+```
+lesson-01-perkenalan/
+│
+├── vocab.md
+├── grammar.md
+├── kaiwa.md
+├── drills.md
+├── notes.md
+│
+└── media/
+    ├── audio/
+    └── images/
+```
+
+Penjelasan file:
+
+| File       | Isi                    |
+| ---------- | ---------------------- |
+| vocab.md   | Daftar kosakata        |
+| grammar.md | Penjelasan tata bahasa |
+| kaiwa.md   | Percakapan / dialog    |
+| drills.md  | Latihan                |
+| notes.md   | Catatan tambahan       |
+
+---
+
+# Aturan Media
+
+File media seperti audio dan gambar harus disimpan di dalam folder **media**.
+
+Contoh:
+
+```
+lesson-01-perkenalan/
+└── media/
+    ├── audio/
+    └── images/
+```
+
+Aturan:
+
+* file audio ditempatkan di `audio`
+* gambar ditempatkan di `images`
+
+---
+
+# Aturan Penamaan File
+
+Beberapa aturan penamaan file yang harus diikuti:
+
+1. Gunakan huruf kecil
+2. Gunakan tanda `-` untuk memisahkan kata
+3. Jangan menggunakan spasi
+4. Jangan menggunakan karakter khusus
+
+Contoh yang benar:
+
+```
+lesson-01-perkenalan
+grammar.md
+vocab.md
+starter-a1
+```
+
+Contoh yang salah:
+
+```
+Lesson 1
+Grammar.md
+lesson_01
+```
+
+---
+
+# Konsistensi Struktur
+
+Semua buku dan lesson harus mengikuti struktur yang sama.
+
+Hal ini penting agar:
+
+* repository tetap rapi
+* mudah dipahami
+* mudah dikembangkan
+* mudah digunakan oleh manusia dan AI
+
+Jika ingin mengubah struktur repository, perubahan harus didiskusikan terlebih dahulu sebelum diterapkan.
