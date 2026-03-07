@@ -1,220 +1,382 @@
-# Style Guide
+# STYLE GUIDE
 
-Dokumen ini berisi aturan umum penulisan konten dalam repository **Japan Nihongo Books**.
+Panduan ini menjelaskan aturan penulisan konten untuk repository **Japan Nihongo Books**.
 
-Tujuan dari style guide ini adalah menjaga agar semua materi tetap:
+Tujuannya adalah memastikan semua materi:
 
-* konsisten
-* mudah dibaca
-* mudah dipahami
-* mudah dikembangkan
+- konsisten
+- mudah dipahami
+- mudah dikembangkan
+- mudah diproses oleh sistem otomatis atau AI
 
-Dokumen ini hanya berisi **aturan umum**.
-
-Untuk aturan khusus media, lihat dokumen berikut:
-
-* `style-guide/images.md`
-* `style-guide/audio.md`
+Panduan ini berlaku untuk semua buku, lesson, dan materi di dalam repository.
 
 ---
 
-# Prinsip Penulisan
+# 1. Prinsip Penulisan
 
-Semua materi harus mengikuti prinsip berikut.
+Semua konten harus mengikuti prinsip berikut.
 
-## 1. Jelas
+## 1.1 Jelas
 
-Materi harus mudah dipahami oleh pembelajar bahasa Jepang.
+Gunakan bahasa yang mudah dipahami.
 
-Gunakan penjelasan yang sederhana dan langsung ke inti.
+Hindari kalimat panjang dan rumit.
 
----
+Contoh baik:
 
-## 2. Ringkas
+```
+Pola ini digunakan untuk memperkenalkan diri.
+```
 
-Hindari penjelasan yang terlalu panjang.
+Contoh buruk:
 
-Gunakan contoh kalimat jika diperlukan.
-
----
-
-## 3. Konsisten
-
-Format penulisan harus sama di semua lesson.
-
-Semua lesson harus mengikuti struktur yang telah ditentukan.
+```
+Pola ini biasanya dalam beberapa situasi tertentu digunakan oleh penutur untuk memperkenalkan dirinya kepada orang lain.
+```
 
 ---
 
-## 4. Terstruktur
+## 1.2 Ringkas
 
-Setiap lesson harus memiliki bagian berikut:
+Tuliskan informasi seperlunya.
 
-* vocab.md
-* grammar.md
-* kaiwa.md
-* drills.md
-* notes.md
+Hindari paragraf yang terlalu panjang.
 
----
+Gunakan:
 
-# Bahasa yang Digunakan
+- tabel
+- daftar
+- contoh
 
-Materi menggunakan:
-
-* Bahasa Jepang
-* Bahasa Indonesia sebagai penjelasan
-
-Romaji hanya digunakan jika diperlukan.
+jika memungkinkan.
 
 ---
 
-# Struktur Penulisan Judul
+## 1.3 Konsisten
 
-Gunakan heading Markdown.
+Gunakan format yang sama di seluruh repository.
+
+Contoh:
+
+- struktur lesson sama
+- format tabel kosakata sama
+- format grammar sama
+
+---
+
+## 1.4 Terstruktur
+
+Gunakan heading yang jelas.
+
+Contoh struktur:
+
+```
+# Judul
+## Subjudul
+### Detail
+```
+
+---
+
+# 2. Bahasa yang Digunakan
+
+Konten utama menggunakan **Bahasa Indonesia**.
+
+Namun tetap menyertakan:
+
+- Bahasa Jepang
+- Hiragana
+- Romaji (jika diperlukan)
+
+---
+
+# 3. Aturan Penulisan Bahasa Jepang
+
+Gunakan format berikut.
+
+| Elemen | Aturan |
+|------|------|
+| Kanji | digunakan jika ada |
+| Hiragana | selalu disertakan |
+| Romaji | digunakan pada kosakata dan percakapan |
 
 Contoh:
 
 ```
-# Lesson 01 — Perkenalan
-```
-
-Subjudul:
-
-```
-## Kosakata
-## Tata Bahasa
-## Contoh Kalimat
+日本
+にほん
+Nihon
 ```
 
 ---
 
-# Format Kosakata
+# 4. Struktur Lesson
 
-Kosakata ditulis dalam bentuk tabel agar mudah dibaca dan dipahami.
-
-Setiap kosakata sebaiknya memuat informasi berikut:
-
-* Bahasa Jepang (kanji atau bentuk utama)
-* Hiragana
-* Romaji
-* Jenis kata
-* Arti dalam bahasa Indonesia
-* Contoh penggunaan
-
-Contoh format:
-
-| Bahasa Jepang | Hiragana | Romaji  | Jenis Kata | Arti      | Contoh    |
-| ------------- | -------- | ------- | ---------- | --------- | --------- |
-| 私             | わたし      | watashi | kata ganti | saya      | 私は学生です    |
-| 学生            | がくせい     | gakusei | kata benda | mahasiswa | 私は学生です    |
-| 先生            | せんせい     | sensei  | kata benda | guru      | 田中さんは先生です |
-| 日本            | にほん      | nihon   | kata benda | Jepang    | 日本へ行きます   |
-
----
-
-# Penjelasan Kolom
-
-| Kolom         | Penjelasan                                              |
-| ------------- | ------------------------------------------------------- |
-| Bahasa Jepang | Kata dalam bentuk kanji atau bentuk yang umum digunakan |
-| Hiragana      | Cara membaca kata dalam hiragana                        |
-| Romaji        | Penulisan latin untuk membantu pemula                   |
-| Jenis Kata    | Jenis kata seperti kata benda, kata kerja, kata sifat   |
-| Arti          | Arti kata dalam bahasa Indonesia                        |
-| Contoh        | Contoh kalimat sederhana menggunakan kata tersebut      |
-
----
-
-# Aturan Penulisan Kosakata
-
-Beberapa aturan yang harus diikuti:
-
-1. Gunakan **kanji** jika tersedia.
-2. Sertakan **hiragana** untuk membantu pembaca.
-3. Sertakan **romaji** untuk pembelajar pemula.
-4. Gunakan **contoh kalimat sederhana**.
-5. Contoh kalimat harus menggunakan **grammar yang sudah dipelajari**.
-
-
----
-
-# Format Grammar
-
-Gunakan format berikut:
+Setiap lesson harus memiliki struktur berikut.
 
 ```
-## Pola Kalimat
+lesson-XX-topic
+```
 
+Contoh:
+
+```
+lesson-01-perkenalan
+lesson-02-ini-apa
+lesson-03-lokasi-benda
+```
+
+Di dalam folder lesson harus terdapat file berikut.
+
+```
+vocab.md
+grammar.md
+kaiwa.md
+drills.md
+notes.md
+```
+
+Penjelasan:
+
+| File | Fungsi |
+|-----|------|
+| vocab.md | daftar kosakata |
+| grammar.md | penjelasan tata bahasa |
+| kaiwa.md | contoh percakapan |
+| drills.md | latihan |
+| notes.md | catatan tambahan |
+
+---
+
+# 5. Format Kosakata
+
+Kosakata harus ditulis dalam bentuk tabel.
+
+Gunakan format berikut.
+
+| Bahasa Jepang | Hiragana | Romaji | Jenis Kata | Arti | Contoh |
+|---------------|----------|--------|-----------|------|-------|
+
+Contoh:
+
+| Bahasa Jepang | Hiragana | Romaji | Jenis Kata | Arti | Contoh |
+|---------------|----------|--------|-----------|------|-------|
+| 私 | わたし | watashi | kata ganti | saya | 私は学生です |
+| 学生 | がくせい | gakusei | kata benda | mahasiswa | 私は学生です |
+| 先生 | せんせい | sensei | kata benda | guru | 先生は日本人です |
+
+---
+
+# 6. Format Grammar
+
+Setiap grammar harus mengikuti struktur berikut.
+
+## Pola
+
+```
 A は B です
+```
 
-## Arti
+## Makna
 
+```
 A adalah B
+```
 
 ## Penjelasan
 
-Digunakan untuk menyatakan identitas atau informasi dasar.
+Digunakan untuk menyatakan identitas atau kategori.
 
 ## Contoh
 
-私は学生です。  
+```
+私は学生です。
+わたしはがくせいです。
+Watashi wa gakusei desu.
 Saya adalah mahasiswa.
 ```
 
----
-
-# Format Percakapan (Kaiwa)
-
-Dialog ditulis seperti berikut:
+Contoh lain:
 
 ```
-A: はじめまして。  
-B: はじめまして。  
-
-A: 私はアンドリです。  
-B: 私は田中です。
+田中さんは先生です。
+たなかさんはせんせいです。
+Tanaka-san wa sensei desu.
+Tanaka adalah guru.
 ```
-
-Jika diperlukan, tambahkan terjemahan.
 
 ---
 
-# Format Latihan
+# 7. Format Contoh Kalimat
 
-Latihan dapat berupa soal atau pengisian.
+Gunakan urutan berikut.
+
+```
+日本語
+Hiragana
+Romaji
+Terjemahan
+```
 
 Contoh:
 
 ```
-## Latihan 1
-
-Isi bagian yang kosong.
-
-1. 私は ______ です。
-2. 田中さんは ______ です。
+日本へ行きます。
+にほんへいきます。
+Nihon e ikimasu.
+Saya pergi ke Jepang.
 ```
 
 ---
 
-# Catatan Tambahan
+# 8. Format Percakapan (Kaiwa)
 
-Gunakan file `notes.md` untuk:
+Gunakan format berikut.
 
-* penjelasan tambahan
-* tips belajar
-* informasi budaya Jepang
+```
+A: 日本語
+   Hiragana
+   Romaji
+   Terjemahan
+```
+
+Contoh:
+
+```
+A: はじめまして。
+   はじめまして。
+   Hajimemashite.
+   Senang bertemu dengan Anda.
+
+B: はじめまして。
+   はじめまして。
+   Hajimemashite.
+   Senang bertemu dengan Anda juga.
+```
 
 ---
 
-# Media
+# 9. Format Latihan (Drills)
 
-Repository ini menggunakan dua jenis media:
+Gunakan format daftar.
 
-* gambar
-* audio
+Contoh:
 
-Aturan lengkap dapat dilihat di:
+```
+1. Terjemahkan ke bahasa Jepang.
 
-* `style-guide/images.md`
-* `style-guide/audio.md`
+Saya mahasiswa.
+Saya guru.
+Saya orang Indonesia.
+```
+
+Atau:
+
+```
+Isi bagian kosong.
+
+私は ______ です。
+```
+
+---
+
+# 10. Aturan Penamaan File
+
+Gunakan huruf kecil.
+
+Gunakan tanda minus `-` untuk pemisah kata.
+
+Contoh benar:
+
+```
+lesson-01-perkenalan
+lesson-02-ini-apa
+lesson-03-lokasi-benda
+```
+
+Contoh salah:
+
+```
+Lesson01
+Lesson_01
+lesson01
+```
+
+---
+
+# 11. Aturan Aset Gambar
+
+Jika menggunakan gambar:
+
+- gambar harus jelas
+- mudah dipahami
+- mendukung materi pembelajaran
+
+Gunakan emoji jika memungkinkan.
+
+Contoh:
+
+```
+🍎 apel
+🍞 roti
+🚗 mobil
+```
+
+Jika gambar diperlukan:
+
+- gunakan format **SVG** atau **PNG**
+- simpan di folder:
+
+```
+assets/images
+```
+
+---
+
+# 12. Aturan Aset Audio
+
+Audio digunakan untuk membantu pelafalan.
+
+Format audio:
+
+```
+mp3
+```
+
+Struktur penyimpanan:
+
+```
+assets/audio
+```
+
+Penamaan file:
+
+```
+lesson-01-watashi.mp3
+lesson-01-gakusei.mp3
+```
+
+---
+
+# 13. Konsistensi Format
+
+Semua kontributor harus menjaga:
+
+- struktur lesson
+- format tabel
+- format grammar
+- format contoh kalimat
+
+Agar seluruh repository tetap konsisten.
+
+---
+
+# 14. Tujuan Panduan Ini
+
+Panduan ini dibuat agar materi di repository ini:
+
+- mudah dibaca manusia
+- mudah dipelajari
+- mudah dikembangkan
+- dapat digunakan sebagai dataset pembelajaran bahasa Jepang
