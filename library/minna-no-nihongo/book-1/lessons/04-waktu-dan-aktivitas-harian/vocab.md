@@ -1,4 +1,6 @@
-﻿| Kana/Kanji | Romaji | Arti | Catatan |
+﻿# Lesson 04 - Waktu dan Aktivitas Harian: Kosakata
+
+| Kana/Kanji | Romaji | Arti | Catatan |
 | ---------- | ------ | ---- | ------- |
 | いま | ima | sekarang | keterangan waktu |
 | ～じ | ~ji | jam ~ | contoh: 7じ |
@@ -21,3 +23,4 @@
 | おわります | owarimasu | selesai | kata kerja bentuk `ます` |
 | ～から | ~kara | dari ~ | penanda awal waktu |
 | ～まで | ~made | sampai ~ | penanda akhir waktu |
+

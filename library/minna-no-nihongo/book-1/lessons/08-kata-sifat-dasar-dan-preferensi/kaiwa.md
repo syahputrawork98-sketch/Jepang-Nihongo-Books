@@ -1,4 +1,6 @@
-﻿A: この まち は にぎやか ですね。
+﻿# Lesson 08 - Kata Sifat Dasar dan Preferensi: Kaiwa
+
+A: この まち は にぎやか ですね。
 A: Kono machi wa nigiyaka desu ne.
 A: Kota ini ramai ya.
 
@@ -21,3 +23,4 @@ A: Kalau begitu, suka apa?
 B: りょうり が すき です。ピアノ も すき です。
 B: Ryouri ga suki desu. Piano mo suki desu.
 B: Suka memasak. Suka piano juga.
+

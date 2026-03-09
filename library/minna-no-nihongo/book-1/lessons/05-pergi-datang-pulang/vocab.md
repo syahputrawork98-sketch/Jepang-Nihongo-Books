@@ -1,4 +1,6 @@
-﻿| Kana/Kanji | Romaji | Arti | Catatan |
+﻿# Lesson 05 - Pergi, Datang, Pulang: Kosakata
+
+| Kana/Kanji | Romaji | Arti | Catatan |
 | ---------- | ------ | ---- | ------- |
 | いきます | ikimasu | pergi | kata kerja perpindahan |
 | きます | kimasu | datang | kata kerja perpindahan |
@@ -23,3 +25,4 @@
 | ～と | ~to | dengan ~ | partikel pendamping |
 | ～へ | ~e | ke ~ | partikel tujuan |
 | ～で | ~de | dengan (alat transportasi) | partikel cara/sarana |
+

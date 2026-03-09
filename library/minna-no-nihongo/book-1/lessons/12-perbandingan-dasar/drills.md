@@ -1,4 +1,6 @@
-﻿## Latihan 1 - `より`
+﻿# Lesson 12 - Perbandingan Dasar: Drills
+
+## Latihan 1 - `より`
 
 Lengkapi kalimat berikut.
 
@@ -43,3 +45,4 @@ Jawab pertanyaan berikut dengan `A の ほう` atau `どちら も`.
 ### Latihan 4 (Contoh Jawaban)
 1. にほんご の ほう が むずかしい です。
 2. どちら も すき です。
+

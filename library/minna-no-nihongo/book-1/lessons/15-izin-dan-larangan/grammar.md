@@ -1,7 +1,9 @@
+﻿# Lesson 15 - Izin dan Larangan: Grammar
+
 ## Pola Kalimat 1
 
 ```text
-Vて も いいです。
+Vã¦ ã‚‚ ã„ã„ã§ã™ã€‚
 V-te mo ii desu.
 ```
 
@@ -9,18 +11,18 @@ V-te mo ii desu.
 Boleh melakukan V.
 
 ### Contoh
-- ここ で しゃしん を とって も いいです。
+- ã“ã“ ã§ ã—ã‚ƒã—ã‚“ ã‚’ ã¨ã£ã¦ ã‚‚ ã„ã„ã§ã™ã€‚
 - Koko de shashin o totte mo ii desu.
 - Di sini boleh mengambil foto.
 
-- この へや に はいって も いいです。
+- ã“ã® ã¸ã‚„ ã« ã¯ã„ã£ã¦ ã‚‚ ã„ã„ã§ã™ã€‚
 - Kono heya ni haitte mo ii desu.
 - Boleh masuk ke ruangan ini.
 
 ## Pola Kalimat 2
 
 ```text
-Vて は いけません。
+Vã¦ ã¯ ã„ã‘ã¾ã›ã‚“ã€‚
 V-te wa ikemasen.
 ```
 
@@ -28,18 +30,18 @@ V-te wa ikemasen.
 Tidak boleh melakukan V.
 
 ### Contoh
-- ここ で たばこ を すって は いけません。
+- ã“ã“ ã§ ãŸã°ã“ ã‚’ ã™ã£ã¦ ã¯ ã„ã‘ã¾ã›ã‚“ã€‚
 - Koko de tabako o sutte wa ikemasen.
 - Di sini tidak boleh merokok.
 
-- としょかん で おおきい こえ で はなして は いけません。
+- ã¨ã—ã‚‡ã‹ã‚“ ã§ ãŠãŠãã„ ã“ãˆ ã§ ã¯ãªã—ã¦ ã¯ ã„ã‘ã¾ã›ã‚“ã€‚
 - Toshokan de ookii koe de hanashite wa ikemasen.
 - Di perpustakaan tidak boleh berbicara dengan suara keras.
 
 ## Pola Kalimat 3
 
 ```text
-Vて も いいですか。
+Vã¦ ã‚‚ ã„ã„ã§ã™ã‹ã€‚
 V-te mo ii desu ka.
 ```
 
@@ -47,15 +49,16 @@ V-te mo ii desu ka.
 Bolehkah melakukan V?
 
 ### Contoh
-- ここ で けいたい を つかって も いいですか。
+- ã“ã“ ã§ ã‘ã„ãŸã„ ã‚’ ã¤ã‹ã£ã¦ ã‚‚ ã„ã„ã§ã™ã‹ã€‚
 - Koko de keitai o tsukatte mo ii desu ka.
 - Bolehkah memakai ponsel di sini?
 
-- A: しゃしん を とって も いいですか。
-- B: はい、いいです。 / いいえ、いけません。
+- A: ã—ã‚ƒã—ã‚“ ã‚’ ã¨ã£ã¦ ã‚‚ ã„ã„ã§ã™ã‹ã€‚
+- B: ã¯ã„ã€ã„ã„ã§ã™ã€‚ / ã„ã„ãˆã€ã„ã‘ã¾ã›ã‚“ã€‚
 
 ## Catatan Penting
 
-- `Vて も いいです` menyatakan izin.
-- `Vて は いけません` menyatakan larangan.
+- `Vã¦ ã‚‚ ã„ã„ã§ã™` menyatakan izin.
+- `Vã¦ ã¯ ã„ã‘ã¾ã›ã‚“` menyatakan larangan.
 - Konteks tempat sering penting untuk menentukan boleh/tidak boleh.
+

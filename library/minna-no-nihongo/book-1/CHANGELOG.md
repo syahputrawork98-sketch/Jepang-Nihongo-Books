@@ -10,7 +10,7 @@ Contoh:
 
 ## Unreleased
 
-- (kosong)
+- 2026-03-09 | global | update | sinkronisasi format lesson 01-15 (navigasi README, header file konten, dan log baseline di notes) | menyamakan standar operasional semua lesson dengan checklist kualitas book-1
 
 ## 2026-03-06
 

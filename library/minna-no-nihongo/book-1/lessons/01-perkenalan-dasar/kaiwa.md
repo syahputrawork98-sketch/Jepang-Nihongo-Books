@@ -1,4 +1,8 @@
-﻿A: はじめまして。わたし は アンディ です。
+﻿# Lesson 01 - Perkenalan Dasar: Kaiwa
+
+## Percakapan Dasar
+
+A: はじめまして。わたし は アンディ です。
 A: Hajimemashite. Watashi wa Andi desu.
 A: Senang berkenalan. Saya Andi.
 

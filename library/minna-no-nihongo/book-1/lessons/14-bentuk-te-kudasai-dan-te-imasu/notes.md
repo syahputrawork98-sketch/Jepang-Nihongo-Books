@@ -1,4 +1,6 @@
-﻿## Catatan Lesson 14
+﻿# Lesson 14 - Instruksi dengan `ï½žã¦ãã ã•ã„`: Notes
+
+## Catatan Lesson 14
 
 - Fokus utama lesson ini adalah instruksi sopan dengan `Vã¦ãã ã•ã„`.
 - Pengenalan tambahan di lesson ini: `Vã¦ ã„ã¾ã™` untuk aksi yang sedang berlangsung.
@@ -19,4 +21,5 @@
 - 2026-03-05: Inisialisasi konten penuh lesson 14 (README, vocab, grammar, kaiwa, drills, notes).
 - 2026-03-05: Tambah media lesson 14 (5 gambar SVG, 6 audio MP3 draft TTS, source attribution).
 - 2026-03-05: QC cepat audio draft lesson 14 (durasi terbaca, bitrate 64 kbps, seluruh file dapat diputar).
+- 2026-03-09: Sinkronisasi format lesson sebagai baseline kualitas untuk book-1.
 

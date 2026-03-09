@@ -1,4 +1,6 @@
-﻿| Kana/Kanji | Romaji | Arti | Catatan |
+﻿# Lesson 02 - Ini, Itu, Yang Mana: Kosakata
+
+| Kana/Kanji | Romaji | Arti | Catatan |
 | ---------- | ------ | ---- | ------- |
 | これ | kore | ini (benda dekat pembicara) | kata tunjuk benda |
 | それ | sore | itu (benda dekat lawan bicara) | kata tunjuk benda |
@@ -23,3 +25,4 @@
 | なん | nan | apa | dipakai sebelum `ですか` |
 | だれ | dare | siapa | untuk orang |
 | どなた | donata | siapa (sopan) | bentuk sopan |
+

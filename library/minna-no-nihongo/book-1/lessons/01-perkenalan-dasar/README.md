@@ -6,8 +6,8 @@
 - Mampu membuat kalimat nominal dengan pola `A は B です`.
 
 ## Cakupan Materi
-- Salam perkenalan dasar
-- Kosakata identitas diri
+- Salam perkenalan dasar.
+- Kosakata identitas diri.
 - Pola grammar:
   - `A は B です`
   - `A は B ではありません`
@@ -18,6 +18,13 @@ Setelah lesson ini, kamu diharapkan bisa:
 - Memperkenalkan diri secara singkat.
 - Menanyakan dan menjawab identitas lawan bicara.
 - Membuat kalimat positif, negatif, dan tanya sederhana.
+
+## Navigasi Lesson
+- [Kosakata](./vocab.md)
+- [Grammar](./grammar.md)
+- [Kaiwa](./kaiwa.md)
+- [Drills](./drills.md)
+- [Notes](./notes.md)
 
 ## Status Media
 - Daftar kebutuhan gambar: `media/images/README.md`

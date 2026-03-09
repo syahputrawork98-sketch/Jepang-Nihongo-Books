@@ -1,4 +1,6 @@
-﻿A: きょう の よる、なに を しますか。
+﻿# Lesson 06 - Aktivitas dan Ajakan: Kaiwa
+
+A: きょう の よる、なに を しますか。
 A: Kyou no yoru, nani o shimasu ka.
 A: Malam ini mau melakukan apa?
 
@@ -21,3 +23,4 @@ A: Kalau begitu, mari minum kopi.
 B: はい、のみましょう。
 B: Hai, nomimashou.
 B: Ya, mari minum.
+

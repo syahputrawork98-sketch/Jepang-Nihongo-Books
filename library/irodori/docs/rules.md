@@ -12,7 +12,7 @@ Dokumen ini adalah aturan seri untuk `library/irodori/`.
 Setiap level memakai pola:
 
 - `00-front-matter/`
-- `lessons/<nn>/`
+- `lessons/<nn>-<slug-bab>/`
 - `90-appendix/`
 
 ## Struktur Lesson
@@ -32,6 +32,6 @@ Setiap lesson wajib berisi:
 
 - Gunakan `library/docs/style-guide.md` sebagai baseline.
 - Sesuaikan istilah dengan konteks Irodori.
-- Gunakan lesson dua digit (`01`, `02`, dst.) agar konsisten.
+- Gunakan pola lesson `<nn>-<slug-bab>` agar urut dan mudah dicari.
 
 

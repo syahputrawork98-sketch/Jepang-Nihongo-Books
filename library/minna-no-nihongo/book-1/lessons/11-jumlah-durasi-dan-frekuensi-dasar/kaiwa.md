@@ -1,4 +1,6 @@
-﻿A: しゅくだい に どのくらい じかん が かかりますか。
+﻿# Lesson 11 - Jumlah, Durasi, dan Frekuensi Dasar: Kaiwa
+
+A: しゅくだい に どのくらい じかん が かかりますか。
 A: Shukudai ni dono kurai jikan ga kakarimasu ka.
 A: PR butuh waktu berapa lama?
 
@@ -21,3 +23,4 @@ A: Notebook ada berapa?
 B: よっつ あります。
 B: Yottsu arimasu.
 B: Ada empat.
+

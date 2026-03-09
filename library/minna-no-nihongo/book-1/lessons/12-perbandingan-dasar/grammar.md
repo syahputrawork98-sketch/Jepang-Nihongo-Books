@@ -1,4 +1,6 @@
-﻿## Pola Kalimat 1
+﻿# Lesson 12 - Perbandingan Dasar: Grammar
+
+## Pola Kalimat 1
 
 ```text
 A は B より adj です。
@@ -88,3 +90,4 @@ Keduanya ... (untuk dua pilihan).
 - `より` dipakai untuk membandingkan dua hal.
 - `いちばん` dipakai untuk "paling" dalam satu kelompok/kategori.
 - `どちら` dipakai khusus untuk dua pilihan.
+

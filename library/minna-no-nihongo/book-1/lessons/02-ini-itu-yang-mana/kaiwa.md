@@ -1,4 +1,6 @@
-﻿A: これ は なん ですか。
+﻿# Lesson 02 - Ini, Itu, Yang Mana: Kaiwa
+
+A: これ は なん ですか。
 A: Kore wa nan desu ka.
 A: Ini apa?
 
@@ -29,3 +31,4 @@ A: Payung yang mana?
 B: その かさ です。
 B: Sono kasa desu.
 B: Payung itu.
+

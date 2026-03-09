@@ -1,4 +1,6 @@
-﻿| Kana/Kanji | Romaji | Arti | Catatan |
+﻿# Lesson 03 - Lokasi dan Tempat: Kosakata
+
+| Kana/Kanji | Romaji | Arti | Catatan |
 | ---------- | ------ | ---- | ------- |
 | ここ | koko | di sini | dekat pembicara |
 | そこ | soko | di situ | dekat lawan bicara |
@@ -18,3 +20,4 @@
 | エレベーター | erebeetaa | lift | kata serapan |
 | かいだん | kaidan | tangga | tempat |
 | かい | kai | lantai/tingkat | contoh: 2かい |
+

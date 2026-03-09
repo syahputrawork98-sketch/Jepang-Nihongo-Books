@@ -1,4 +1,6 @@
-﻿## Pola Kalimat 1
+﻿# Lesson 03 - Lokasi dan Tempat: Grammar
+
+## Pola Kalimat 1
 
 ```text
 ここ / そこ / あそこ は N です。
@@ -60,3 +62,4 @@ Bentuk lebih sopan untuk menunjuk lokasi/arah.
 - `ここ/そこ/あそこ` adalah kata lokasi langsung.
 - `こちら/そちら/あちら` lebih sopan, sering dipakai di layanan publik.
 - Untuk bertanya sopan, gunakan `どちら` daripada `どこ`.
+

@@ -1,4 +1,6 @@
-﻿| Kana/Kanji | Romaji | Arti | Catatan |
+﻿# Lesson 10 - Lokasi Orang dan Benda: Kosakata
+
+| Kana/Kanji | Romaji | Arti | Catatan |
 | ---------- | ------ | ---- | ------- |
 | います | imasu | ada (orang/hewan) | untuk makhluk hidup |
 | あります | arimasu | ada (benda) | untuk benda mati |
@@ -22,3 +24,4 @@
 | へや | heya | kamar/ruangan | tempat |
 | の | no | kepunyaan/penghubung nomina | pola posisi |
 | に | ni | partikel lokasi | penanda tempat keberadaan |
+

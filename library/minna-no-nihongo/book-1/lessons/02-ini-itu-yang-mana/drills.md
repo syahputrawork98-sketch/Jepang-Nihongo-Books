@@ -1,4 +1,6 @@
-﻿## Latihan 1 - Pilih Kata Tunjuk yang Tepat
+﻿# Lesson 02 - Ini, Itu, Yang Mana: Drills
+
+## Latihan 1 - Pilih Kata Tunjuk yang Tepat
 
 Isi dengan: `これ / それ / あれ`
 
@@ -45,3 +47,4 @@ Isi bagian kosong dengan kata yang tepat.
 ### Latihan 4
 1. どれ
 2. どの
+

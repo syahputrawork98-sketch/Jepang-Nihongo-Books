@@ -1,4 +1,6 @@
-﻿## Pola Kalimat 1
+﻿# Lesson 04 - Waktu dan Aktivitas Harian: Grammar
+
+## Pola Kalimat 1
 
 ```text
 いま ～じ ～ふん です。
@@ -94,3 +96,4 @@ Jam berapa? / Hari apa?
 - Bentuk `ます` dipakai untuk gaya formal netral.
 - `から` menandai awal waktu, `まで` menandai akhir waktu.
 - Untuk latihan awal, fokus dulu pada jam bulat dan setengah jam.
+

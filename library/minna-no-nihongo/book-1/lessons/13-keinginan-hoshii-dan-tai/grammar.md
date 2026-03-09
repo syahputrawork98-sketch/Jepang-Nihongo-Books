@@ -1,7 +1,9 @@
+﻿# Lesson 13 - Keinginan: `ã»ã—ã„` dan `ï½žãŸã„`: Grammar
+
 ## Pola Kalimat 1
 
 ```text
-N が ほしいです。
+N ãŒ ã»ã—ã„ã§ã™ã€‚
 N ga hoshii desu.
 ```
 
@@ -9,18 +11,18 @@ N ga hoshii desu.
 Saya ingin N (benda).
 
 ### Contoh
-- カメラ が ほしいです。
+- ã‚«ãƒ¡ãƒ© ãŒ ã»ã—ã„ã§ã™ã€‚
 - Kamera ga hoshii desu.
 - Saya ingin kamera.
 
-- くるま が ほしいです。
+- ãã‚‹ã¾ ãŒ ã»ã—ã„ã§ã™ã€‚
 - Kuruma ga hoshii desu.
 - Saya ingin mobil.
 
 ## Pola Kalimat 2
 
 ```text
-なに が ほしいですか。
+ãªã« ãŒ ã»ã—ã„ã§ã™ã‹ã€‚
 Nani ga hoshii desu ka.
 ```
 
@@ -28,35 +30,35 @@ Nani ga hoshii desu ka.
 Ingin apa?
 
 ### Contoh
-- A: なに が ほしいですか。
-- B: じてんしゃ が ほしいです。
+- A: ãªã« ãŒ ã»ã—ã„ã§ã™ã‹ã€‚
+- B: ã˜ã¦ã‚“ã—ã‚ƒ ãŒ ã»ã—ã„ã§ã™ã€‚
 
 ## Pola Kalimat 3
 
 ```text
-Vます-stem + たいです。
+Vã¾ã™-stem + ãŸã„ã§ã™ã€‚
 ```
 
 ### Arti
 Ingin melakukan V.
 
 ### Contoh
-- みず を のみたいです。
+- ã¿ãš ã‚’ ã®ã¿ãŸã„ã§ã™ã€‚
 - Mizu o nomitai desu.
 - Saya ingin minum air.
 
-- にほん へ いきたいです。
+- ã«ã»ã‚“ ã¸ ã„ããŸã„ã§ã™ã€‚
 - Nihon e ikitai desu.
 - Saya ingin pergi ke Jepang.
 
-- えいが を みたいです。
+- ãˆã„ãŒ ã‚’ ã¿ãŸã„ã§ã™ã€‚
 - Eiga o mitai desu.
 - Saya ingin menonton film.
 
 ## Pola Kalimat 4
 
 ```text
-どこ へ いきたいですか。
+ã©ã“ ã¸ ã„ããŸã„ã§ã™ã‹ã€‚
 Doko e ikitai desu ka.
 ```
 
@@ -64,11 +66,12 @@ Doko e ikitai desu ka.
 Ingin pergi ke mana?
 
 ### Contoh
-- A: どこ へ いきたいですか。
-- B: きょうと へ いきたいです。
+- A: ã©ã“ ã¸ ã„ããŸã„ã§ã™ã‹ã€‚
+- B: ãã‚‡ã†ã¨ ã¸ ã„ããŸã„ã§ã™ã€‚
 
 ## Catatan Penting
 
-- `ほしいです` dipakai untuk benda, bukan untuk verb.
-- `～たいです` dipakai untuk keinginan melakukan aktivitas.
-- Partikel umum pada `～たいです` tetap mengikuti verb aslinya (`を`, `へ`, dll.).
+- `ã»ã—ã„ã§ã™` dipakai untuk benda, bukan untuk verb.
+- `ï½žãŸã„ã§ã™` dipakai untuk keinginan melakukan aktivitas.
+- Partikel umum pada `ï½žãŸã„ã§ã™` tetap mengikuti verb aslinya (`ã‚’`, `ã¸`, dll.).
+

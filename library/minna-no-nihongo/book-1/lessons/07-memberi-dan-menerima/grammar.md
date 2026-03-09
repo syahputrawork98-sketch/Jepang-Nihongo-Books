@@ -1,4 +1,6 @@
-﻿## Pola Kalimat 1
+﻿# Lesson 07 - Memberi dan Menerima: Grammar
+
+## Pola Kalimat 1
 
 ```text
 A は B に N を あげます。
@@ -87,3 +89,4 @@ Dari siapa menerima N?
 - `に` dan `から` bisa sama-sama dipakai dengan `もらいます` tergantung nuansa; `から` lebih tegas menandai asal.
 - `を` selalu menandai benda yang diberikan/diterima.
 - Jaga urutan: pemberi/penerima, orang tujuan/asal, lalu benda.
+

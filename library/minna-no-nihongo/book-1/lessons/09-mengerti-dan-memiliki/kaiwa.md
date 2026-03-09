@@ -1,4 +1,6 @@
-﻿A: にほんご が わかりますか。
+﻿# Lesson 09 - Mengerti dan Memiliki: Kaiwa
+
+A: にほんご が わかりますか。
 A: Nihongo ga wakarimasu ka.
 A: Mengerti bahasa Jepang?
 
@@ -29,3 +31,4 @@ A: Suka musik seperti apa?
 B: ジャズ が すき です。
 B: Jazu ga suki desu.
 B: Suka jazz.
+

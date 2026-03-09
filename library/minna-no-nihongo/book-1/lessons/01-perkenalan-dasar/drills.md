@@ -1,4 +1,6 @@
-﻿## Latihan 1 - Lengkapi Kalimat
+﻿# Lesson 01 - Perkenalan Dasar: Drills
+
+## Latihan 1 - Lengkapi Kalimat
 
 1. わたし は がくせい ______。
 2. サントスさん は にほんじん ______。
@@ -47,4 +49,3 @@ Jawab dengan `はい` atau `いいえ` + kalimat lengkap.
 
 1. はい、ミラーさん は がくせい です。
 2. いいえ、サントスさん は にほんじん ではありません。
-

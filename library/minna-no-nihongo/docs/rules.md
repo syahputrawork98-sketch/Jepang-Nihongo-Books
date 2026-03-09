@@ -11,6 +11,11 @@ Aturan di dokumen ini hanya untuk:
 - kualitas dasar konten lintas buku,
 - logging perubahan level seri.
 
+Status standar saat ini:
+
+- `book-1`: standar struktur lesson final menggunakan pola `lessons/<nn>-<slug-bab>/`.
+- `book-2` s.d. `book-5`: sementara masih transisi dan belum wajib mengikuti pola slug final sampai aturan khusus per buku disepakati.
+
 ## 2. Batas Tanggung Jawab
 
 - Aturan global lintas seri: `library/docs/rules.md`.
@@ -20,11 +25,12 @@ Aturan di dokumen ini hanya untuk:
 ## 3. Struktur Seri
 
 - Buku yang valid: `book-1`, `book-2`, `book-3`, `book-4`, `book-5`.
-- Struktur di setiap buku wajib konsisten dengan pola:
+- Struktur final wajib untuk `book-1`:
   - `00-front-matter/`
-  - `lessons/<nn>/`
+  - `lessons/<nn>-<slug-bab>/`
   - `90-appendix/`
   - `docs/`
+- Untuk `book-2` s.d. `book-5`, struktur lesson masih boleh menyesuaikan draft aturan buku masing-masing selama tidak merusak konsistensi internal buku tersebut.
 
 ## 4. Standar Minimum Lesson
 
@@ -57,13 +63,13 @@ Setiap lesson minimal harus memiliki:
 - Gunakan huruf kecil.
 - Gunakan `-` sebagai pemisah kata.
 - Jangan gunakan spasi pada nama file/folder.
-- Gunakan lesson dua digit: `01`, `02`, dst.
+- Gunakan pola folder lesson: `<nn>-<slug-bab>` (contoh `01-perkenalan-dasar`).
 
 ## 8. Logging Perubahan
 
 - Perubahan lintas buku: `library/minna-no-nihongo/CHANGELOG.md`.
 - Perubahan per buku: `library/minna-no-nihongo/book-x/CHANGELOG.md`.
-- Catatan detail lesson: `library/minna-no-nihongo/book-x/lessons/xx/notes.md`.
+- Catatan detail lesson: `library/minna-no-nihongo/book-x/lessons/<nn>-<slug-bab>/notes.md`.
 
 ## 9. Definition of Done (Seri)
 

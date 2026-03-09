@@ -1,4 +1,6 @@
-﻿| Kana/Kanji | Romaji | Arti | Catatan |
+﻿# Lesson 11 - Jumlah, Durasi, dan Frekuensi Dasar: Kosakata
+
+| Kana/Kanji | Romaji | Arti | Catatan |
 | ---------- | ------ | ---- | ------- |
 | いくつ | ikutsu | berapa (jumlah) | untuk menghitung benda umum |
 | どのくらい | dono kurai | kira-kira berapa lama/seberapa | kata tanya durasi/derajat |
@@ -20,3 +22,4 @@
 | すくない | sukunai | sedikit | kuantitas |
 | おかね | okane | uang | biaya |
 | じかん が かかります | jikan ga kakarimasu | butuh waktu | pola umum |
+

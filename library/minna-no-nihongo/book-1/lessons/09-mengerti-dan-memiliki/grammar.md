@@ -1,4 +1,6 @@
-﻿## Pola Kalimat 1
+﻿# Lesson 09 - Mengerti dan Memiliki: Grammar
+
+## Pola Kalimat 1
 
 ```text
 N が わかります。
@@ -95,3 +97,4 @@ N seperti apa?
 - `あります` dipakai untuk benda/non-hidup (bukan orang/hewan).
 - Dengan `わかります` dan `あります`, partikel `が` sering dipakai.
 - `どんな` harus diikuti kata benda.
+

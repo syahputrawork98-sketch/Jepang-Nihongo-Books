@@ -1,4 +1,6 @@
-﻿## Pola Kalimat 1
+﻿# Lesson 01 - Perkenalan Dasar: Grammar
+
+## Pola Kalimat 1
 
 ```text
 A は B です。
@@ -66,4 +68,3 @@ Apakah A adalah B?
 - `～さん` dipakai untuk menyapa orang dengan sopan (bukan untuk diri sendiri).
 - Di lesson ini, bentuk negatif utama yang dipakai adalah `ではありません` (formal).
 - `じゃありません` boleh dikenalkan sebagai bentuk lebih kasual.
-

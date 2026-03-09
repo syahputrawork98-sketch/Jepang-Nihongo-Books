@@ -1,4 +1,6 @@
-﻿| Kana/Kanji | Romaji | Arti | Catatan |
+﻿# Lesson 08 - Kata Sifat Dasar dan Preferensi: Kosakata
+
+| Kana/Kanji | Romaji | Arti | Catatan |
 | ---------- | ------ | ---- | ------- |
 | おおきい | ookii | besar | い-adj |
 | ちいさい | chiisai | kecil | い-adj |
@@ -21,3 +23,4 @@
 | えいご | eigo | bahasa Inggris | topik kemampuan |
 | ピアノ | piano | piano | topik kemampuan |
 | が | ga | partikel subjek fokus | sering dipakai dengan `すき/じょうず` |
+

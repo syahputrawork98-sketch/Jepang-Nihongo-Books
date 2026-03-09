@@ -1,4 +1,6 @@
-﻿## Latihan 1 - Pilih Kata Kerja Perpindahan
+﻿# Lesson 05 - Pergi, Datang, Pulang: Drills
+
+## Latihan 1 - Pilih Kata Kerja Perpindahan
 
 Isi dengan: `いきます / きます / かえります`
 
@@ -47,3 +49,4 @@ Buat satu kalimat lengkap dari kata berikut.
 ### Latihan 4 (Contoh Jawaban)
 1. わたし は でんしゃ で だいがく へ いきます。
 2. サントスさん は うち へ かえります。
+

@@ -1,4 +1,6 @@
-﻿| Kana/Kanji | Romaji | Arti | Catatan |
+﻿# Lesson 07 - Memberi dan Menerima: Kosakata
+
+| Kana/Kanji | Romaji | Arti | Catatan |
 | ---------- | ------ | ---- | ------- |
 | あげます | agemasu | memberi | dari pembicara ke orang lain |
 | もらいます | moraimasu | menerima | menerima dari orang lain |
@@ -22,3 +24,4 @@
 | ～に | ~ni | kepada/untuk | partikel tujuan orang |
 | ～から | ~kara | dari | partikel asal |
 | ～を | ~o | objek | penanda benda yang diberikan/diterima |
+

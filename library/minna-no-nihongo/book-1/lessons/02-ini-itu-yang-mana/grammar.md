@@ -1,4 +1,6 @@
-﻿## Pola Kalimat 1
+﻿# Lesson 02 - Ini, Itu, Yang Mana: Grammar
+
+## Pola Kalimat 1
 
 ```text
 これ / それ / あれ は N です。
@@ -95,3 +97,4 @@ Yang mana? / Yang mana N?
 - `これ / それ / あれ` dipakai sendiri tanpa kata benda setelahnya.
 - `この / その / あの / どの` wajib diikuti kata benda.
 - Jarak pembicara-lawan bicara menentukan pemakaian `kore/sore/are`.
+

@@ -1,4 +1,6 @@
-﻿A: でんしゃ と バス と どちら が はやい ですか。
+﻿# Lesson 12 - Perbandingan Dasar: Kaiwa
+
+A: でんしゃ と バス と どちら が はやい ですか。
 A: Densha to basu to dochira ga hayai desu ka.
 A: Antara kereta dan bus, mana yang lebih cepat?
 
@@ -21,3 +23,4 @@ A: Di antara makanan, paling suka apa?
 B: ラーメン が いちばん すき です。
 B: Raamen ga ichiban suki desu.
 B: Paling suka ramen.
+

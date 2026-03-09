@@ -1,4 +1,6 @@
-﻿A: ねこ は どこ に いますか。
+﻿# Lesson 10 - Lokasi Orang dan Benda: Kaiwa
+
+A: ねこ は どこ に いますか。
 A: Neko wa doko ni imasu ka.
 A: Kucing ada di mana?
 
@@ -21,3 +23,4 @@ A: Ruang kelas di mana?
 B: トイレ の となり です。
 B: Toire no tonari desu.
 B: Di sebelah toilet.
+

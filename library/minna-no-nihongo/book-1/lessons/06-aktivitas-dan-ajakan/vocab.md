@@ -1,4 +1,6 @@
-﻿| Kana/Kanji | Romaji | Arti | Catatan |
+﻿# Lesson 06 - Aktivitas dan Ajakan: Kosakata
+
+| Kana/Kanji | Romaji | Arti | Catatan |
 | ---------- | ------ | ---- | ------- |
 | たべます | tabemasu | makan | kata kerja |
 | のみます | nomimasu | minum | kata kerja |
@@ -22,3 +24,4 @@
 | いっしょに | issho ni | bersama-sama | keterangan |
 | ちょっと | chotto | sebentar/agak | ungkapan |
 | を | o | partikel objek | menandai objek langsung |
+

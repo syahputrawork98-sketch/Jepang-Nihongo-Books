@@ -1,4 +1,6 @@
-﻿## Latihan 1 - Isi Kata Lokasi
+﻿# Lesson 03 - Lokasi dan Tempat: Drills
+
+## Latihan 1 - Isi Kata Lokasi
 
 Isi dengan: `ここ / そこ / あそこ`
 
@@ -49,3 +51,4 @@ Jawab pertanyaan berikut.
 ### Latihan 4 (Contoh Jawaban)
 1. あそこ です。
 2. こちら です。
+

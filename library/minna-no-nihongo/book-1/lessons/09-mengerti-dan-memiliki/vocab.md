@@ -1,4 +1,6 @@
-﻿| Kana/Kanji | Romaji | Arti | Catatan |
+﻿# Lesson 09 - Mengerti dan Memiliki: Kosakata
+
+| Kana/Kanji | Romaji | Arti | Catatan |
 | ---------- | ------ | ---- | ------- |
 | わかります | wakarimasu | mengerti/paham | kata kerja |
 | あります | arimasu | ada/memiliki (benda) | untuk benda mati |
@@ -20,3 +22,4 @@
 | が | ga | partikel subjek fokus | dipakai di pola utama lesson ini |
 | は | wa | partikel topik | pembanding/topik kalimat |
 | ありますか | arimasu ka | apakah ada/punya? | bentuk tanya |
+

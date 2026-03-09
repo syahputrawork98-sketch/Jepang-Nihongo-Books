@@ -1,4 +1,6 @@
-﻿## Catatan Lesson 13
+﻿# Lesson 13 - Keinginan: `ã»ã—ã„` dan `ï½žãŸã„`: Notes
+
+## Catatan Lesson 13
 
 - Fokus utama lesson ini adalah membedakan keinginan benda (`ã»ã—ã„ã§ã™`) dan keinginan aktivitas (`ï½žãŸã„ã§ã™`).
 - Pola yang sering tertukar pemula:
@@ -19,4 +21,5 @@
 - 2026-03-05: Inisialisasi konten penuh lesson 13 (README, vocab, grammar, kaiwa, drills, notes).
 - 2026-03-05: Tambah media lesson 13 (5 gambar SVG, 6 audio MP3 draft TTS, source attribution).
 - 2026-03-05: QC cepat audio draft lesson 13 (durasi terbaca, bitrate 64 kbps, seluruh file dapat diputar).
+- 2026-03-09: Sinkronisasi format lesson sebagai baseline kualitas untuk book-1.
 

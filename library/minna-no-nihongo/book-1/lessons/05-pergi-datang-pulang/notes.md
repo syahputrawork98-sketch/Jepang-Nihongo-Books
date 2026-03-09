@@ -1,4 +1,6 @@
-﻿## Catatan Lesson 05
+﻿# Lesson 05 - Pergi, Datang, Pulang: Notes
+
+## Catatan Lesson 05
 
 - Fokus utama lesson ini adalah perpindahan lokasi dan partikel terkait.
 - Tegaskan perbedaan fungsi partikel:
@@ -20,4 +22,5 @@
 - 2026-03-05: Inisialisasi konten penuh lesson 05 (README, vocab, grammar, kaiwa, drills, notes).
 - 2026-03-05: Penambahan media lesson 05 (5 gambar `.svg`, 6 audio `.mp3` draft TTS), plus dokumentasi `media/README` dan `source-attribution.md`.
 - 2026-03-05: Perombakan visual gambar 01-04 agar lebih jelas untuk pemula (alur baca, fungsi partikel, dan contoh kalimat eksplisit).
+- 2026-03-09: Sinkronisasi format lesson sebagai baseline kualitas untuk book-1.
 

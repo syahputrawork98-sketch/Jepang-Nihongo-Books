@@ -1,4 +1,6 @@
-﻿| Kana/Kanji | Romaji | Arti | Catatan |
+﻿# Lesson 12 - Perbandingan Dasar: Kosakata
+
+| Kana/Kanji | Romaji | Arti | Catatan |
 | ---------- | ------ | ---- | ------- |
 | より | yori | daripada | partikel perbandingan |
 | ほう | hou | pihak/sisi (yang lebih) | dipakai dalam pilihan |
@@ -21,3 +23,4 @@
 | スポーツ | supootsu | olahraga | kategori |
 | たべもの | tabemono | makanan | kategori |
 | の なかで | no naka de | di dalam (kategori) | pola superlatif |
+

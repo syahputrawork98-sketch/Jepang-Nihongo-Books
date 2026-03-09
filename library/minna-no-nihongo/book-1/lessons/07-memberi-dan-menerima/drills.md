@@ -1,4 +1,6 @@
-﻿## Latihan 1 - Pilih Kata Kerja
+﻿# Lesson 07 - Memberi dan Menerima: Drills
+
+## Latihan 1 - Pilih Kata Kerja
 
 Isi dengan: `あげます / もらいます`
 
@@ -47,3 +49,4 @@ Jawab pertanyaan berikut.
 ### Latihan 4 (Contoh Jawaban)
 1. ともだち に あげます。
 2. せんせい から もらいました。
+

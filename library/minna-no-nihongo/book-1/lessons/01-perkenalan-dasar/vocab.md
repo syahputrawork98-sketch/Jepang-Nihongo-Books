@@ -1,4 +1,8 @@
-﻿| Kana/Kanji | Romaji | Arti | Catatan |
+﻿# Lesson 01 - Perkenalan Dasar: Kosakata
+
+Daftar kosakata inti yang digunakan pada lesson ini.
+
+| Kana/Kanji | Romaji | Arti | Catatan |
 | ---------- | ------ | ---- | ------- |
 | わたし | watashi | saya | kata ganti orang pertama |
 | あなた | anata | kamu/anda | dipakai hati-hati, sering diganti nama |
@@ -21,4 +25,3 @@
 | おなまえは | onamae wa | nama Anda? | bentuk sopan |
 | はじめまして | hajimemashite | senang berkenalan | salam awal perkenalan |
 | どうぞよろしく おねがいします | douzo yoroshiku onegaishimasu | mohon bimbingannya/salam kenal | penutup perkenalan |
-

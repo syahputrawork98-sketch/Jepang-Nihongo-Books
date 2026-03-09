@@ -16,3 +16,8 @@ Sub-rak ini menyimpan seluruh buku seri Minna no Nihongo.
 - `book-4/`
 - `book-5/`
 
+## Status Standar
+
+- `book-1`: sudah menggunakan standar penamaan lesson final (`<nn>-<slug-bab>`).
+- `book-2` s.d. `book-5`: masih fase pending, aturan detail penamaan dan workflow akan dibahas terpisah per buku.
+

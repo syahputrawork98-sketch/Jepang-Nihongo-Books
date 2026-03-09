@@ -1,4 +1,6 @@
-﻿A: あした どこ へ いきますか。
+﻿# Lesson 05 - Pergi, Datang, Pulang: Kaiwa
+
+A: あした どこ へ いきますか。
 A: Ashita doko e ikimasu ka.
 A: Besok pergi ke mana?
 
@@ -29,3 +31,4 @@ A: Jam berapa pulang ke rumah?
 B: ごじ はん に かえります。
 B: Go-ji han ni kaerimasu.
 B: Pulang jam lima lewat setengah.
+

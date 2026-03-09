@@ -1,4 +1,6 @@
-﻿## Latihan 1 - Isi Jam
+﻿# Lesson 04 - Waktu dan Aktivitas Harian: Drills
+
+## Latihan 1 - Isi Jam
 
 Isi bagian kosong dengan format jam yang tepat.
 
@@ -49,3 +51,4 @@ Jawab pertanyaan berikut.
 ### Latihan 4 (Contoh Jawaban)
 1. いま しちじ はん です。
 2. きょう は もくようび です。
+

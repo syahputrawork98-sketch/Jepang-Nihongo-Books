@@ -1,4 +1,6 @@
-﻿## Pola Kalimat 1
+﻿# Lesson 11 - Jumlah, Durasi, dan Frekuensi Dasar: Grammar
+
+## Pola Kalimat 1
 
 ```text
 N は いくつ ですか。
@@ -95,3 +97,4 @@ Melakukan aktivitas sebanyak [angka] kali per minggu.
 - `どのくらい` fleksibel untuk waktu atau jumlah tingkat tertentu.
 - `かかります` sering dipakai bersama `じかん` atau `おかね`.
 - Untuk frekuensi, pola paling mudah: `しゅう に Xかい`.
+

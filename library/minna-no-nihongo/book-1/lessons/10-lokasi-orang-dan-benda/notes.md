@@ -1,4 +1,6 @@
-﻿## Catatan Lesson 10
+﻿# Lesson 10 - Lokasi Orang dan Benda: Notes
+
+## Catatan Lesson 10
 
 - Fokus utama lesson ini adalah lokasi orang/hewan vs benda.
 - Kesalahan umum pemula: tertukar antara `います` dan `あります`.
@@ -16,4 +18,5 @@
 
 - 2026-03-05: Inisialisasi konten penuh lesson 10 (README, vocab, grammar, kaiwa, drills, notes).
 - 2026-03-05: Penambahan media lesson 10 (5 gambar `.svg`, 6 audio `.mp3` draft TTS), plus dokumentasi `media/README` dan `source-attribution.md`.
+- 2026-03-09: Sinkronisasi format lesson sebagai baseline kualitas untuk book-1.
 

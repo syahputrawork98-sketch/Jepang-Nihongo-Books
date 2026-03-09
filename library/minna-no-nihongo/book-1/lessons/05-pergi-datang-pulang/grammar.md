@@ -1,4 +1,6 @@
-﻿## Pola Kalimat 1
+﻿# Lesson 05 - Pergi, Datang, Pulang: Grammar
+
+## Pola Kalimat 1
 
 ```text
 N(Tempat) へ いきます / きます / かえります。
@@ -93,3 +95,4 @@ Pergi kapan?
 - `へ` dibaca `e` saat menjadi partikel tujuan.
 - `で` pada lesson ini menandai alat/cara transportasi.
 - `と` berarti "dengan (orang)", berbeda fungsi dengan `で`.
+

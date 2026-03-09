@@ -1,4 +1,6 @@
-﻿## Latihan 1 - `います` atau `あります`
+﻿# Lesson 10 - Lokasi Orang dan Benda: Drills
+
+## Latihan 1 - `います` atau `あります`
 
 Pilih kata kerja yang tepat.
 
@@ -49,3 +51,4 @@ Jawab pertanyaan berikut.
 ### Latihan 4 (Contoh Jawaban)
 1. きょうしつ に います。
 2. つくえ の うえ に あります。
+

@@ -1,4 +1,6 @@
-﻿## Latihan 1 - `わかります` atau `わかりません`
+﻿# Lesson 09 - Mengerti dan Memiliki: Drills
+
+## Latihan 1 - `わかります` atau `わかりません`
 
 Isi dengan bentuk yang tepat.
 
@@ -45,3 +47,4 @@ Lengkapi pertanyaan berikut.
 ### Latihan 4
 1. どんな
 2. どんな
+

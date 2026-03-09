@@ -1,4 +1,6 @@
-﻿## Pola Kalimat 1
+﻿# Lesson 10 - Lokasi Orang dan Benda: Grammar
+
+## Pola Kalimat 1
 
 ```text
 N(orang/hewan) は どこ に いますか。
@@ -91,3 +93,4 @@ Menyatakan lokasi akhir dengan `います` (hidup) atau `あります` (benda).
 - `います` untuk orang/hewan; `あります` untuk benda.
 - Partikel `に` menandai lokasi keberadaan.
 - `N1 の N2` dipakai untuk menyusun posisi relatif.
+

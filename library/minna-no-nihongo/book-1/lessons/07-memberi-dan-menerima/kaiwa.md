@@ -1,4 +1,6 @@
-﻿A: だれ に プレゼント を あげますか。
+﻿# Lesson 07 - Memberi dan Menerima: Kaiwa
+
+A: だれ に プレゼント を あげますか。
 A: Dare ni purezento o agemasu ka.
 A: Memberi hadiah kepada siapa?
 
@@ -21,3 +23,4 @@ A: Menerima foto dari siapa?
 B: せんせい から もらいました。
 B: Sensei kara moraimashita.
 B: Menerima dari guru.
+

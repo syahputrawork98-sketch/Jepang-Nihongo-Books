@@ -1,4 +1,6 @@
-﻿## Pola Kalimat 1
+﻿# Lesson 06 - Aktivitas dan Ajakan: Grammar
+
+## Pola Kalimat 1
 
 ```text
 N を Vます。
@@ -95,3 +97,4 @@ Mari ... (usul/ajakan)
 - Partikel `を` dibaca `o`.
 - `Vませんか` lebih halus daripada bentuk perintah.
 - `Vましょう` dipakai saat pembicara mengusulkan aksi bersama.
+

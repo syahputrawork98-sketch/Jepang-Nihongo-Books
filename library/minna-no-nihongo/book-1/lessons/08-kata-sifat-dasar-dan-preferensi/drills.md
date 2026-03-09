@@ -1,4 +1,6 @@
-﻿## Latihan 1 - Pilih Kata Sifat
+﻿# Lesson 08 - Kata Sifat Dasar dan Preferensi: Drills
+
+## Latihan 1 - Pilih Kata Sifat
 
 Isi dengan kata yang tepat.
 
@@ -49,3 +51,4 @@ Lengkapi dengan `じょうず` atau `へた`.
 ### Latihan 4 (Contoh Jawaban)
 1. じょうず
 2. へた
+

@@ -4,7 +4,7 @@ Dokumen ini mengatur cara menulis isi bab untuk book-4.
 
 ## Scope
 
-- Berlaku untuk semua folder `lessons/<nn>/` pada book-4.
+- Berlaku untuk semua folder `lessons/<nn>-<slug-bab>/` pada book-4.
 - Mengikuti aturan seri di `library/minna-no-nihongo/docs/rules.md`.
 
 ## Standar Isi per Lesson
@@ -32,4 +32,5 @@ Setiap lesson harus memiliki:
 
 Aturan ini fokus pada isi bab.
 Aturan rilis dan changelog tetap di level seri.
+
 

@@ -1,4 +1,6 @@
-﻿A: すみません。いま なんじ ですか。
+﻿# Lesson 04 - Waktu dan Aktivitas Harian: Kaiwa
+
+A: すみません。いま なんじ ですか。
 A: Sumimasen. Ima nanji desu ka.
 A: Permisi. Sekarang jam berapa?
 
@@ -21,3 +23,4 @@ A: Hari ini hari apa?
 B: もくようび です。
 B: Mokuyoubi desu.
 B: Hari Kamis.
+

@@ -1,4 +1,6 @@
-﻿## Catatan Lesson 03
+﻿# Lesson 03 - Lokasi dan Tempat: Notes
+
+## Catatan Lesson 03
 
 - Fokus utama lesson ini adalah lokasi dan arah dasar.
 - Bedakan dua level kesopanan:
@@ -18,4 +20,5 @@
 
 - 2026-03-05: Inisialisasi konten penuh lesson 03 (README, vocab, grammar, kaiwa, drills, notes).
 - 2026-03-05: Penambahan media lesson 03 (5 gambar `.svg`, 6 audio `.mp3` draft TTS), plus dokumentasi `media/README` dan `source-attribution.md`.
+- 2026-03-09: Sinkronisasi format lesson sebagai baseline kualitas untuk book-1.
 

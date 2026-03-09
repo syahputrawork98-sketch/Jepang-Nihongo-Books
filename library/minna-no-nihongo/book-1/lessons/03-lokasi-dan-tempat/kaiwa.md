@@ -1,4 +1,6 @@
-﻿A: すみません。トイレ は どこ ですか。
+﻿# Lesson 03 - Lokasi dan Tempat: Kaiwa
+
+A: すみません。トイレ は どこ ですか。
 A: Sumimasen. Toire wa doko desu ka.
 A: Permisi. Toilet ada di mana?
 
@@ -21,3 +23,4 @@ A: Permisi. Lift ada di mana? (sopan)
 B: こちら です。
 B: Kochira desu.
 B: Di sini.
+

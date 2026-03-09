@@ -18,6 +18,13 @@ Setelah lesson ini, kamu diharapkan bisa:
 - Menanyakan lokasi ruangan/fasilitas.
 - Memberi arahan dasar dengan bentuk sopan.
 
+## Navigasi Lesson
+- [Kosakata](./vocab.md)
+- [Grammar](./grammar.md)
+- [Kaiwa](./kaiwa.md)
+- [Drills](./drills.md)
+- [Notes](./notes.md)
+
 ## Status Media
 - Daftar kebutuhan gambar: `media/images/README.md`
 - Daftar kebutuhan audio: `media/audio/README.md`
@@ -25,3 +32,4 @@ Setelah lesson ini, kamu diharapkan bisa:
 - Status saat ini:
   - Gambar `.svg` inti lesson 03 sudah ditambahkan.
   - Audio `.mp3` draft lesson 03 sudah ditambahkan.
+

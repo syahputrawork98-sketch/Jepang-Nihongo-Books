@@ -1,4 +1,6 @@
-﻿## Latihan 1 - `いくつ`
+﻿# Lesson 11 - Jumlah, Durasi, dan Frekuensi Dasar: Drills
+
+## Latihan 1 - `いくつ`
 
 Lengkapi jawaban jumlah berikut.
 
@@ -43,3 +45,4 @@ Lengkapi dengan format `しゅう に Xかい`.
 ### Latihan 4
 1. しゅう に なんかい うんどうしますか。
 2. しゅくだい に どのくらい かかりますか。
+

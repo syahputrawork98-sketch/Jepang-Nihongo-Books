@@ -1,4 +1,6 @@
-﻿## Catatan Lesson 01
+﻿# Lesson 01 - Perkenalan Dasar: Notes
+
+## Catatan Lesson 01
 
 - Fokus utama lesson ini adalah kalimat nominal sederhana (`です`).
 - Pastikan pembelajar memahami beda fungsi:
@@ -20,4 +22,4 @@
 
 - 2026-03-05: Inisialisasi konten penuh lesson 01 (README, vocab, grammar, kaiwa, drills, notes).
 - 2026-03-05: Standarisasi bentuk negatif ke `ではありません` + tambah kunci jawaban latihan self-check.
-
+- 2026-03-09: Sinkronisasi format lesson 01 sebagai baseline kualitas untuk book-1.

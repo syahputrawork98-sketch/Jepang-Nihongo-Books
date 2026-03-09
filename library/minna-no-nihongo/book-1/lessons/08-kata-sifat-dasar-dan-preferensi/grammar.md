@@ -1,4 +1,6 @@
-﻿## Pola Kalimat 1
+﻿# Lesson 08 - Kata Sifat Dasar dan Preferensi: Grammar
+
+## Pola Kalimat 1
 
 ```text
 N は い-adj です。
@@ -95,3 +97,4 @@ Mahir / kurang mahir dalam N.
 - Kata sifat `い` tidak memakai `な` sebelum `です`.
 - Kata sifat `な` memakai akar sifat + `です` dalam kalimat nominal.
 - Dengan `すき/きらい/じょうず/へた`, partikel yang umum dipakai adalah `が`.
+

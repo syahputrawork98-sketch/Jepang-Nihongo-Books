@@ -1,4 +1,6 @@
-﻿## Latihan 1 - Partikel Objek `を`
+﻿# Lesson 06 - Aktivitas dan Ajakan: Drills
+
+## Latihan 1 - Partikel Objek `を`
 
 Lengkapi kalimat berikut dengan `を`.
 
@@ -45,3 +47,4 @@ Isi dengan: `たべます / のみます / よみます / みます`
 ### Latihan 4
 1. ひるごはん を たべましょう。
 2. おんがく を ききましょう。
+

@@ -1,7 +1,9 @@
+﻿# Lesson 14 - Instruksi dengan `ï½žã¦ãã ã•ã„`: Grammar
+
 ## Pola Kalimat 1
 
 ```text
-Vてください。
+Vã¦ãã ã•ã„ã€‚
 V-te kudasai.
 ```
 
@@ -9,18 +11,18 @@ V-te kudasai.
 Tolong/silakan lakukan V.
 
 ### Contoh
-- なまえ を かいて ください。
+- ãªã¾ãˆ ã‚’ ã‹ã„ã¦ ãã ã•ã„ã€‚
 - Namae o kaite kudasai.
 - Tolong tulis nama.
 
-- ここ で まって ください。
+- ã“ã“ ã§ ã¾ã£ã¦ ãã ã•ã„ã€‚
 - Koko de matte kudasai.
 - Tolong tunggu di sini.
 
 ## Pola Kalimat 2
 
 ```text
-Vて います。
+Vã¦ ã„ã¾ã™ã€‚
 V-te imasu.
 ```
 
@@ -28,18 +30,18 @@ V-te imasu.
 Sedang melakukan V (pengenalan dasar).
 
 ### Contoh
-- いま、にほんご を べんきょうして います。
+- ã„ã¾ã€ã«ã»ã‚“ã” ã‚’ ã¹ã‚“ãã‚‡ã†ã—ã¦ ã„ã¾ã™ã€‚
 - Ima, nihongo o benkyou shite imasu.
 - Sekarang sedang belajar bahasa Jepang.
 
-- たなかさん は ほん を よんで います。
+- ãŸãªã‹ã•ã‚“ ã¯ ã»ã‚“ ã‚’ ã‚ˆã‚“ã§ ã„ã¾ã™ã€‚
 - Tanakasan wa hon o yonde imasu.
 - Tanaka sedang membaca buku.
 
 ## Pola Kalimat 3
 
 ```text
-なに を していますか。
+ãªã« ã‚’ ã—ã¦ã„ã¾ã™ã‹ã€‚
 Nani o shite imasu ka.
 ```
 
@@ -47,11 +49,12 @@ Nani o shite imasu ka.
 Sedang melakukan apa?
 
 ### Contoh
-- A: なに を していますか。
-- B: しゅくだい を しています。
+- A: ãªã« ã‚’ ã—ã¦ã„ã¾ã™ã‹ã€‚
+- B: ã—ã‚…ãã ã„ ã‚’ ã—ã¦ã„ã¾ã™ã€‚
 
 ## Catatan Penting
 
-- `Vてください` dipakai untuk instruksi sopan.
-- `Vて います` di lesson ini dipakai sebagai pengenalan aksi sedang berlangsung.
-- Partikel objek `を` tetap dipakai seperti bentuk dasar verb.
+- `Vã¦ãã ã•ã„` dipakai untuk instruksi sopan.
+- `Vã¦ ã„ã¾ã™` di lesson ini dipakai sebagai pengenalan aksi sedang berlangsung.
+- Partikel objek `ã‚’` tetap dipakai seperti bentuk dasar verb.
+

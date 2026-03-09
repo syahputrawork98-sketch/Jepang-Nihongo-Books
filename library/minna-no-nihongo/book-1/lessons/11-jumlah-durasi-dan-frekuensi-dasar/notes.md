@@ -1,4 +1,6 @@
-﻿## Catatan Lesson 11
+﻿# Lesson 11 - Jumlah, Durasi, dan Frekuensi Dasar: Notes
+
+## Catatan Lesson 11
 
 - Fokus utama lesson ini adalah kuantitas, durasi, dan frekuensi dasar.
 - Tekankan perbedaan fungsi:
@@ -19,4 +21,5 @@
 
 - 2026-03-05: Inisialisasi konten penuh lesson 11 (README, vocab, grammar, kaiwa, drills, notes).
 - 2026-03-05: Penambahan media lesson 11 (5 gambar `.svg`, 6 audio `.mp3` draft TTS), plus dokumentasi `media/README` dan `source-attribution.md`.
+- 2026-03-09: Sinkronisasi format lesson sebagai baseline kualitas untuk book-1.
 

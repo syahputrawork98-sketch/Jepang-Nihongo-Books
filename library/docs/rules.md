@@ -18,8 +18,8 @@ library/
 |   |-- <book-or-level>/
 |   |   |-- 00-front-matter/
 |   |   |-- lessons/
-|   |   |   |-- 01/
-|   |   |   `-- nn/
+|   |   |   |-- 01-nama-bab/
+|   |   |   `-- nn-nama-bab/
 |   |   `-- 90-appendix/
 |   `-- ...
 `-- ...
@@ -43,7 +43,7 @@ Setiap lesson wajib berisi:
 - Gunakan huruf kecil.
 - Gunakan `-` sebagai pemisah kata.
 - Jangan gunakan spasi.
-- Folder lesson wajib dua digit: `01`, `02`, ...
+- Folder lesson wajib memakai pola: `<nn>-<slug-bab>` (contoh `01-perkenalan-dasar`).
 
 ## 5. Batas Tanggung Jawab
 
