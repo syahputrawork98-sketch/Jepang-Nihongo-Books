@@ -11,9 +11,9 @@ Folder `library/` adalah sub-rak utama yang menampung semua seri buku.
 
 ## Dokumen Aturan di Level Library
 
-- Struktur dan aturan global: `library/dok/rules.md`
-- Alur kontribusi lintas seri: `library/dok/contributing.md`
-- Format konten dasar (default): `library/dok/style-guide.md`
+- Struktur dan aturan global: `library/docs/rules.md`
+- Alur kontribusi lintas seri: `library/docs/contributing.md`
+- Format konten dasar (default): `library/docs/style-guide.md`
 
 ## Seri yang Sudah Ada
 
@@ -24,3 +24,4 @@ Folder `library/` adalah sub-rak utama yang menampung semua seri buku.
 ## Prinsip Konflik Aturan
 
 Aturan level bawah boleh memperketat aturan level atas, tetapi tidak boleh bertentangan.
+

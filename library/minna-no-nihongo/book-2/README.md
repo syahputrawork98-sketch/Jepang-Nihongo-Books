@@ -7,9 +7,10 @@ Area ini menyimpan materi untuk book-2.
 - `00-front-matter/`
 - `lessons/`
 - `90-appendix/`
-- `dok/`
+- `docs/`
 
 ## Aturan Level Buku
 
-- Panduan penulisan bab: `library/minna-no-nihongo/book-2/dok/writing-guide.md`
-- Aturan seri induk: `library/minna-no-nihongo/dok/rules.md`
+- Panduan penulisan bab: `library/minna-no-nihongo/book-2/docs/writing-guide.md`
+- Aturan seri induk: `library/minna-no-nihongo/docs/rules.md`
+

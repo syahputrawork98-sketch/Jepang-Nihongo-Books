@@ -11,8 +11,8 @@ Tujuan utamanya:
 Panduan level root:
 
 - Penjelasan umum: `README.md`
-- Aturan perubahan root: `dok/rules.md`
-- Panduan kontribusi root: `dok/contributing.md`
+- Aturan perubahan root: `docs/rules.md`
+- Panduan kontribusi root: `docs/contributing.md`
 
 Mulai mengerjakan konten dari sini:
 

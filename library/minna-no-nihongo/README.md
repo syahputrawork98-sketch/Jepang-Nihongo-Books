@@ -4,9 +4,9 @@ Sub-rak ini menyimpan seluruh buku seri Minna no Nihongo.
 
 ## Aturan Level Seri
 
-- Aturan struktur dan kualitas seri: `library/minna-no-nihongo/dok/rules.md`
-- Panduan versi rilis: `library/minna-no-nihongo/dok/versioning.md`
-- Checklist rilis: `library/minna-no-nihongo/dok/release-checklist.md`
+- Aturan struktur dan kualitas seri: `library/minna-no-nihongo/docs/rules.md`
+- Panduan versi rilis: `library/minna-no-nihongo/docs/versioning.md`
+- Checklist rilis: `library/minna-no-nihongo/docs/release-checklist.md`
 
 ## Buku yang Tersedia
 
@@ -15,3 +15,4 @@ Sub-rak ini menyimpan seluruh buku seri Minna no Nihongo.
 - `book-3/`
 - `book-4/`
 - `book-5/`
+

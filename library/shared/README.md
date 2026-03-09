@@ -4,4 +4,5 @@ Folder ini berisi materi lintas seri yang dapat dipakai ulang oleh banyak sub-ra
 
 ## Aturan Level Shared
 
-- Lihat `library/shared/dok/rules.md`.
+- Lihat `library/shared/docs/rules.md`.
+
