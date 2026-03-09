@@ -1,15 +1,32 @@
-# Minna no Nihongo Rules
+﻿# Minna no Nihongo Rules
 
-Dokumen ini adalah aturan kerja khusus untuk konten `materials/minna-no-nihongo/`.
+Dokumen ini mengatur perubahan pada level `library/minna-no-nihongo/`.
 
-## 1. Scope
+## 1. Scope Level Ini
 
-- Struktur buku:
-  - `book-1` sampai `book-5`
-- Struktur lesson:
-  - `lessons/01`, `lessons/02`, dst (dua digit)
+Aturan di dokumen ini hanya untuk:
 
-## 2. Struktur Wajib per Lesson
+- struktur seri Minna no Nihongo (`book-1` s.d. `book-5`),
+- standar minimum yang wajib dipenuhi semua buku,
+- kualitas dasar konten lintas buku,
+- logging perubahan level seri.
+
+## 2. Batas Tanggung Jawab
+
+- Aturan global lintas seri: `library/dok/rules.md`.
+- Aturan level buku dan cara menulis bab: `library/minna-no-nihongo/book-x/dok/writing-guide.md`.
+- Dokumen ini tidak menggantikan aturan level buku.
+
+## 3. Struktur Seri
+
+- Buku yang valid: `book-1`, `book-2`, `book-3`, `book-4`, `book-5`.
+- Struktur di setiap buku wajib konsisten dengan pola:
+  - `00-front-matter/`
+  - `lessons/<nn>/`
+  - `90-appendix/`
+  - `dok/`
+
+## 4. Standar Minimum Lesson
 
 Setiap lesson minimal harus memiliki:
 
@@ -22,54 +39,36 @@ Setiap lesson minimal harus memiliki:
 - `media/audio/`
 - `media/images/`
 
-## 3. Format Konten Wajib
+## 5. Standar Kualitas Lintas Buku
 
-- Untuk contoh bahasa, gunakan kombinasi:
-  - Teks Jepang
-  - Romaji
-  - Terjemahan Indonesia
-- Bagian grammar minimal memuat:
-  - Pola kalimat
-  - Arti
-  - Minimal 3 contoh kalimat
+- Contoh bahasa menggunakan kombinasi Jepang, romaji, dan Indonesia.
+- Grammar minimal memiliki pola kalimat, arti, dan contoh.
+- Contoh kalimat harus natural untuk pemula.
+- Hindari terjemahan ambigu.
+- Konsisten dengan gaya romaji repo.
 
-## 4. Referensi Materi Shared
+## 6. Referensi Shared
 
-- Materi universal jangan diduplikasi di lesson.
-- Gunakan referensi ke `materials/shared/...` untuk:
-  - writing system
-  - angka / bulan / hari-tanggal
-  - uang
-  - kata sifat
+- Materi universal tidak diduplikasi ke banyak lesson.
+- Gunakan `library/shared/...` sebagai sumber lintas seri.
 
-## 5. Penamaan
+## 7. Penamaan
 
 - Gunakan huruf kecil.
 - Gunakan `-` sebagai pemisah kata.
 - Jangan gunakan spasi pada nama file/folder.
-- Gunakan folder lesson dua digit (`01`, `02`, ...).
+- Gunakan lesson dua digit: `01`, `02`, dst.
 
-## 6. Kualitas Konten
+## 8. Logging Perubahan
 
-- Contoh kalimat harus natural dan mudah dipahami pemula.
-- Hindari terjemahan yang ambigu.
-- Konsisten dengan gaya romaji yang dipakai di repo.
+- Perubahan lintas buku: `library/minna-no-nihongo/CHANGELOG.md`.
+- Perubahan per buku: `library/minna-no-nihongo/book-x/CHANGELOG.md`.
+- Catatan detail lesson: `library/minna-no-nihongo/book-x/lessons/xx/notes.md`.
 
-## 7. Logging Perubahan
+## 9. Definition of Done (Seri)
 
-- Catat perubahan lintas-buku di:
-  - `materials/minna-no-nihongo/CHANGELOG.md`
-- Catat perubahan per buku di:
-  - `materials/minna-no-nihongo/book-x/CHANGELOG.md`
-- Catat catatan detail lesson di:
-  - `materials/minna-no-nihongo/book-x/lessons/xx/notes.md`
+Sebuah perubahan di seri Minna selesai jika:
 
-## 8. Definition of Done (DoD)
-
-Sebuah lesson dianggap selesai jika:
-
-- Semua file wajib terisi.
-- Link internal tidak putus.
-- Contoh Jepang/Romaji/Indonesia tersedia.
-- Ringkasan lesson di `README.md` jelas.
-- Perubahan dicatat di changelog yang sesuai.
+- standar minimum lesson terpenuhi,
+- link internal valid,
+- catatan perubahan tercatat di changelog yang sesuai.

@@ -5,7 +5,7 @@ Lampiran ini berisi materi pendukung lintas lesson untuk `book-1`.
 ## Tujuan Appendix
 - Menyediakan ringkasan cepat yang bisa dipakai ulang di semua lesson.
 - Menyediakan template review mandiri untuk pembelajar.
-- Menyediakan daftar rujukan ke materi `materials/shared/` yang paling sering dipakai.
+- Menyediakan daftar rujukan ke materi `library/shared/` yang paling sering dipakai.
 
 ## Isi Lampiran yang Direkomendasikan
 - Ringkasan pola grammar per lesson (1 halaman per lesson).
@@ -40,14 +40,15 @@ Lesson yang di-review: ____
 
 ## Referensi ke Shared Materials
 - Sistem tulisan:
-  - `materials/shared/writing-system/hiragana.md`
-  - `materials/shared/writing-system/katakana.md`
+  - `library/shared/writing-system/hiragana.md`
+  - `library/shared/writing-system/katakana.md`
 - Materi kata sifat:
-  - `materials/shared/kata-sifat/README.md`
+  - `library/shared/kata-sifat/README.md`
 - Materi tambahan kosakata tematik:
-  - `materials/shared/hobi/README.md`
+  - `library/shared/hobi/README.md`
 
 ## Catatan Penggunaan
 - Appendix tidak menggantikan materi lesson; ini bersifat pelengkap.
-- Jika ada konten yang dipakai lintas-book, pertimbangkan pindah ke `materials/shared/`.
+- Jika ada konten yang dipakai lintas-book, pertimbangkan pindah ke `library/shared/`.
 - Simpan perubahan besar appendix di `book-1/CHANGELOG.md`.
+

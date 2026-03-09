@@ -1,6 +1,6 @@
-# Versioning Guide (Release)
+﻿# Versioning Guide (Release)
 
-Dokumen ini mengatur versi rilis untuk `materials/minna-no-nihongo`.
+Dokumen ini mengatur versi rilis untuk `library/minna-no-nihongo`.
 
 ## Skema Versi
 
@@ -46,3 +46,4 @@ Jika validasi selesai, naikkan ke:
 2. Cek `RELEASE_CHECKLIST.md`.
 3. Tentukan versi (`rc` atau final).
 4. Buat tag release di git (opsional jika diperlukan workflow tim).
+

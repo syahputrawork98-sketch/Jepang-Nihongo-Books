@@ -1,10 +1,20 @@
-﻿# Style Guide
+﻿# Library Style Guide
 
-Panduan ini mengatur format penulisan agar konsisten di semua seri.
+Dokumen ini adalah format default penulisan konten untuk seluruh seri.
+
+Catatan:
+
+- Jika seri punya aturan sendiri di `library/<series>/RULES.md`, aturan seri tersebut lebih spesifik.
+
+## Bahasa Wajib pada Contoh
+
+Setiap contoh pembelajaran sebaiknya memuat:
+
+- Teks Jepang
+- Romaji
+- Terjemahan Indonesia
 
 ## Struktur Vocab
-
-Gunakan tabel berikut:
 
 | Kana/Kanji | Romaji | Arti | Catatan |
 | ---------- | ------ | ---- | ------- |
@@ -14,8 +24,6 @@ Contoh:
 | わたし | watashi | saya | kata ganti orang |
 
 ## Struktur Grammar
-
-Format penjelasan grammar:
 
 ### Pola Kalimat
 
@@ -36,9 +44,12 @@ Watashi wa gakusei desu.
 Saya adalah mahasiswa.
 ```
 
-## Struktur Kaiwa
+Catatan:
 
-Gunakan format percakapan:
+- Satu file grammar dapat berisi lebih dari satu pola.
+- Untuk setiap pola, gunakan blok: Pola Kalimat -> Arti -> Contoh.
+
+## Struktur Kaiwa
 
 ```text
 A: はじめまして (Hajimemashite)
@@ -47,19 +58,9 @@ B: はじめまして (Hajimemashite)
 
 ## Struktur Drills
 
-Gunakan format latihan seperti berikut:
-
 ```text
 Latihan 1
 Isi titik-titik.
 わたし は _____ です。
 Watashi wa _____ desu.
 ```
-
-## Bahasa
-
-Gunakan kombinasi berikut pada setiap materi:
-
-- Teks Jepang
-- Romaji
-- Terjemahan Indonesia

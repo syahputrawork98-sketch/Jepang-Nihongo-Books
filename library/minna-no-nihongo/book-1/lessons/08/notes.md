@@ -9,13 +9,14 @@
 ## Referensi Shared
 
 - Sistem tulisan dasar:
-  - `materials/shared/writing-system/hiragana.md`
-  - `materials/shared/writing-system/katakana.md`
+  - `library/shared/writing-system/hiragana.md`
+  - `library/shared/writing-system/katakana.md`
 - Materi kata sifat:
-  - `materials/shared/kata-sifat/README.md`
+  - `library/shared/kata-sifat/README.md`
 
 ## Log Revisi Internal Lesson
 
 - 2026-03-05: Inisialisasi konten penuh lesson 08 (README, vocab, grammar, kaiwa, drills, notes).
 - 2026-03-05: Penambahan media lesson 08 (5 gambar `.svg`, 6 audio `.mp3` draft TTS), plus dokumentasi `media/README` dan `source-attribution.md`.
 - 2026-03-05: Perombakan visual gambar 01-04 agar lebih jelas untuk pemula (alur baca, fungsi pola, dan contoh kalimat eksplisit).
+

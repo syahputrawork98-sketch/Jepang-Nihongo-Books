@@ -1,93 +1,27 @@
-# Contributing Guide
+﻿# Library Contributing
 
-Terima kasih sudah berkontribusi pada repository ini.
+Dokumen ini mengatur kontribusi lintas seri di `library/`.
 
-Repository ini memuat materi belajar Bahasa Jepang dari beberapa seri.
-Saat ini seri utamanya adalah:
+## Alur Kontribusi
 
-- Minna no Nihongo
-- Irodori
+1. Tentukan scope perubahan:
+   - tambah seri baru, atau
+   - tambah buku/level pada seri yang ada, atau
+   - revisi lesson yang sudah ada.
+2. Ikuti struktur di `library/dok/rules.md`.
+3. Jika mengubah seri tertentu, ikuti `library/<series>/dok/rules.md`.
+4. Pastikan lesson memenuhi struktur minimal.
 
-## Struktur Repository
+## Checklist Sebelum Commit
 
-Materi utama berada di:
+- Struktur folder valid sesuai `library/dok/rules.md`.
+- Penamaan file/folder konsisten.
+- Tidak ada link internal putus.
+- Jika menyentuh satu seri, aturan seri tersebut tetap terpenuhi.
 
-```text
-materials/
-```
+## Checklist Pull Request
 
-Dengan pembagian:
-
-```text
-materials/
-|-- shared/
-|-- minna-no-nihongo/
-|   |-- book-1/
-|   |-- book-2/
-|   |-- book-3/
-|   |-- book-4/
-|   `-- book-5/
-`-- irodori/
-    |-- starter-a1/
-    `-- elementary-a2/
-```
-
-## Struktur Lesson
-
-Setiap lesson harus memiliki file berikut:
-
-- README.md
-- vocab.md
-- grammar.md
-- drills.md
-- kaiwa.md
-- notes.md
-
-Media diletakkan di:
-
-- media/audio/
-- media/images/
-
-## Aturan Penambahan Materi
-
-1. Jangan mengubah pola struktur folder utama.
-2. Tambahkan materi ke seri yang sesuai (`minna-no-nihongo` atau `irodori`).
-3. Simpan materi dasar yang dipakai lintas seri ke `materials/shared/`.
-4. Gunakan format file lesson yang sama untuk semua seri.
-5. Simpan audio di `media/audio` dan gambar di `media/images`.
-6. Untuk unit Irodori, gunakan nama lesson konsisten (mis. `01`, `02`, dst.) agar mudah diindeks.
-7. Jika menambah seri baru, buat folder baru di bawah `materials/` dengan pola struktur yang sama.
-
-## Penamaan File
-
-- Gunakan huruf kecil.
-- Gunakan tanda `-` untuk pemisah kata.
-- Jangan gunakan spasi.
-
-Contoh:
-
-```text
-kata-pengantar.md
-cara-penggunaan.md
-penjelasan-tambahan.md
-```
-
-## Pull Request
-
-Saat membuat Pull Request:
-
-1. Jelaskan seri dan buku/level yang diubah.
-2. Jelaskan lesson/unit yang ditambahkan atau direvisi.
-3. Jelaskan jenis perubahan (vocab/grammar/drills/kaiwa/notes/media/shared).
-
-## Aturan Khusus Minna no Nihongo
-
-Untuk kontribusi di `materials/minna-no-nihongo/`, gunakan dokumen berikut:
-
-- `RULES.md` untuk aturan konten dan DoD.
-- `CHANGELOG.md` (global) untuk perubahan lintas buku.
-- `book-x/CHANGELOG.md` untuk perubahan per buku.
-- `VERSIONING.md` untuk skema versi rilis.
-- `RELEASE_CHECKLIST.md` saat persiapan rilis akhir.
-
+1. Jelaskan scope (seri/buku/lesson).
+2. Jelaskan jenis perubahan (`vocab`, `grammar`, `drills`, `kaiwa`, `notes`, `media`, `shared`).
+3. Jelaskan dampak aturan/changelog jika ada.
 

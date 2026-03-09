@@ -13,10 +13,10 @@
 ## Referensi Shared
 
 - Sistem tulisan dasar:
-  - `materials/shared/writing-system/hiragana.md`
-  - `materials/shared/writing-system/katakana.md`
+  - `library/shared/writing-system/hiragana.md`
+  - `library/shared/writing-system/katakana.md`
 - Materi lanjutan kata sifat:
-  - `materials/shared/kata-sifat/README.md`
+  - `library/shared/kata-sifat/README.md`
 
 ## Log Revisi Internal Lesson
 
@@ -28,3 +28,4 @@
 - 2026-03-05: Refine visual v2 untuk 5 file gambar lesson 02 (layout, tipografi, dan kejelasan konsep tanpa menjadikan emoji sebagai elemen utama).
 - 2026-03-05: Refine visual v3 pada gambar 03/04/05: alur konsep diperjelas dan ditambah emoji kecil sebagai aksen label opsi.
 - 2026-03-05: Refine visual v3.1: style gambar 01/02 diseragamkan dengan set v3 (label eksplisit + aksen emoji kecil + konsistensi layout 01-05).
+

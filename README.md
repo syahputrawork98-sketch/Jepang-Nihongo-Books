@@ -1,30 +1,19 @@
-# Jepang Nihongo Books
+﻿# Jepang Nihongo Books
 
-Repository ini berisi catatan pembelajaran Bahasa Jepang.
-Saat ini materi utamanya berasal dari dua seri:
+Repository ini adalah rak buku digital untuk dokumentasi belajar Bahasa Jepang.
 
-- Minna no Nihongo
-- Irodori
+Tujuan utamanya:
 
-Ke depan, seri buku lain bisa ditambahkan tanpa mengubah pola struktur utama.
+- menyimpan materi belajar secara terstruktur,
+- memisahkan materi lintas seri dan materi per seri,
+- memudahkan penambahan seri dan buku baru tanpa ubah fondasi repo.
 
-Tujuan repository adalah mendokumentasikan progres belajar dari level dasar sampai menengah secara terstruktur, konsisten, dan mudah dikembangkan.
+Panduan level root:
 
-Lihat panduan struktur di `docs/STRUCTURE.md` dan aturan kontribusi di `docs/CONTRIBUTING.md`.
+- Penjelasan umum: `README.md`
+- Aturan perubahan root: `dok/rules.md`
+- Panduan kontribusi root: `dok/contributing.md`
 
-## Quick Start Kontribusi
+Mulai mengerjakan konten dari sini:
 
-1. Pilih seri yang akan diisi:
-- `materials/minna-no-nihongo/`
-- `materials/irodori/`
-2. Masuk ke buku/level yang sesuai, lalu isi lesson pada folder `lessons/<nomor>/`.
-3. Lengkapi file wajib:
-- `README.md`
-- `vocab.md`
-- `grammar.md`
-- `drills.md`
-- `kaiwa.md`
-- `notes.md`
-4. Simpan audio di `media/audio/` dan gambar di `media/images/`.
-
-
+- `library/README.md`

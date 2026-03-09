@@ -11,12 +11,13 @@
 ## Referensi Shared
 
 - Sistem tulisan dasar:
-  - `materials/shared/writing-system/hiragana.md`
-  - `materials/shared/writing-system/katakana.md`
+  - `library/shared/writing-system/hiragana.md`
+  - `library/shared/writing-system/katakana.md`
 - Kosakata status/sifat pendukung:
-  - `materials/shared/kata-sifat/README.md`
+  - `library/shared/kata-sifat/README.md`
 
 ## Log Revisi Internal Lesson
 
 - 2026-03-05: Inisialisasi konten penuh lesson 01 (README, vocab, grammar, kaiwa, drills, notes).
 - 2026-03-05: Standarisasi bentuk negatif ke `ではありません` + tambah kunci jawaban latihan self-check.
+

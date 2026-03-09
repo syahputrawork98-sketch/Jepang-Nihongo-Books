@@ -1,4 +1,4 @@
-# Release Checklist
+﻿# Release Checklist
 
 Gunakan checklist ini saat mendekati rilis (terutama final).
 
@@ -17,7 +17,7 @@ Gunakan checklist ini saat mendekati rilis (terutama final).
 ## 3. Konsistensi
 
 - [ ] Penamaan file/folder konsisten.
-- [ ] Referensi ke `materials/shared` benar.
+- [ ] Referensi ke `library/shared` benar.
 - [ ] Tidak ada link internal putus.
 
 ## 4. Logging & Versi
@@ -31,3 +31,4 @@ Gunakan checklist ini saat mendekati rilis (terutama final).
 
 - [ ] Tentukan catatan rilis singkat (apa yang selesai, apa yang belum).
 - [ ] Lock versi final (mis. `v1.0.0`).
+
